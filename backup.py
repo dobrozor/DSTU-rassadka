@@ -21,8 +21,8 @@ from telebot import types
 
 from models import db
 
-TOKEN = "9016617121:AAGbiba84ZrRV4q7i8K6MoEna8OPkZmco20"
-CHAT_ID = 535541118
+TOKEN = "ТОКЕН_БОТА"
+CHAT_ID = 123123123
 BTN_TEXT = "📦 Получить базу"
 
 
