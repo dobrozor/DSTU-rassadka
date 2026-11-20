@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ru"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Общий журнал</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head><body class="logpage">
+
+<header id="top">
+  <div class="grp">
+    <a class="btn" href="/">← К схеме</a>
+    <strong>Общий журнал</strong>
+    <select id="evFilter" title="Мероприятие"><option value="">Все мероприятия</option></select>
+    <button id="reload" title="Обновить">⟳</button>
+  </div>
+</header>
+
+<div id="glog"></div>
+<div id="moreWrap"><button id="more" hidden>Показать ещё</button></div>
+
+<script src="{{ url_for('static', filename='log.js') }}"></script>
+</body></html>

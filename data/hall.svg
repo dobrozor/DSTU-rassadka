@@ -1,0 +1,1483 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1266 966" version="1.1">  
+  <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> 
+    <g id="Stage" transform="translate(498.000000, 929.000000)"> 
+      <text id="Сцена" font-family="ArialMT, Arial" font-size="21" font-weight="normal" fill="#666666"> 
+        <tspan x="104.043457" y="31">Сцена</tspan> 
+      </text> 
+    </g>  
+    <g id="подложка" transform="translate(1.000000, 1.000000)" fill="#FFFFFF" fill-rule="nonzero"> 
+      <path d="M11.9968424,0 L1252.00316,0 C1258.62883,0 1264,5.3656408 1264,11.9997979 L1264,670.000202 C1264,676.627507 1258.61897,682 1252.00316,682 L1135.99684,682 C1129.37117,682 1124,676.634359 1124,670.000202 L1124,241.997138 C1124,235.371302 1118.63147,230 1112.0016,230 L151.998404,230 C145.371868,230 140,235.365142 140,241.997138 L140,670.000202 C140,676.627507 134.618968,682 128.003158,682 L11.9968424,682 C5.37116928,682 0,676.634359 0,670.000202 L0,11.9997979 C0,5.3724925 5.38103236,0 11.9968424,0 Z" />  
+      <path d="M164,266.00485 C164,259.374754 169.379733,254 176.005085,254 L1087.99492,254 C1094.62514,254 1100,259.38122 1100,266.00485 L1100,883.99515 C1100,890.625246 1094.62027,896 1087.99492,896 L176.005085,896 C169.374859,896 164,890.61878 164,883.99515 L164,266.00485 Z" /> 
+    </g>  
+    <g id="подписи" transform="translate(21.000000, 35.000000)" font-family="ArialMT, Arial" font-weight="normal"> 
+      <text id="1" font-size="8" fill="#666666"> 
+        <tspan x="609.550781" y="827">1</tspan> 
+      </text>  
+      <text id="2" font-size="8" fill="#666666"> 
+        <tspan x="609.550781" y="805">2</tspan> 
+      </text>  
+      <text id="3" font-size="8" fill="#666666"> 
+        <tspan x="609.550781" y="783">3</tspan> 
+      </text>  
+      <text id="4" font-size="8" fill="#666666"> 
+        <tspan x="609.550781" y="761">4</tspan> 
+      </text>  
+      <text id="5" font-size="8" fill="#666666"> 
+        <tspan x="609.550781" y="739">5</tspan> 
+      </text>  
+      <text id="6" font-size="8" fill="#666666"> 
+        <tspan x="609.550781" y="717">6</tspan> 
+      </text>  
+      <text id="7" font-size="8" fill="#666666"> 
+        <tspan x="609.550781" y="695">7</tspan> 
+      </text>  
+      <text id="8" font-size="8" fill="#666666"> 
+        <tspan x="609.550781" y="673">8</tspan> 
+      </text>  
+      <text id="9" font-size="8" fill="#666666"> 
+        <tspan x="609.550781" y="651">9</tspan> 
+      </text>  
+      <text id="10" font-size="8" fill="#666666"> 
+        <tspan x="607.695312" y="591">10</tspan> 
+      </text>  
+      <text id="11" font-size="8" fill="#666666"> 
+        <tspan x="607.695312" y="569">11</tspan> 
+      </text>  
+      <text id="12" font-size="8" fill="#666666"> 
+        <tspan x="607.101562" y="547">12</tspan> 
+      </text>  
+      <text id="13" font-size="8" fill="#666666"> 
+        <tspan x="607.101562" y="525">13</tspan> 
+      </text>  
+      <text id="14" font-size="8" fill="#666666"> 
+        <tspan x="607.101562" y="503">14</tspan> 
+      </text>  
+      <text id="15" font-size="8" fill="#666666"> 
+        <tspan x="607.101562" y="481">15</tspan> 
+      </text>  
+      <text id="16" font-size="8" fill="#666666"> 
+        <tspan x="607.101562" y="459">16</tspan> 
+      </text>  
+      <text id="17" font-size="8" fill="#666666"> 
+        <tspan x="607.101562" y="437">17</tspan> 
+      </text>  
+      <text id="18" font-size="8" fill="#666666"> 
+        <tspan x="607.101562" y="415">18</tspan> 
+      </text>  
+      <text id="19" font-size="8" fill="#666666"> 
+        <tspan x="607.101562" y="393">19</tspan> 
+      </text>  
+      <text id="20" font-size="8" fill="#666666"> 
+        <tspan x="607.101562" y="371">20</tspan> 
+      </text>  
+      <text id="21" font-size="8" fill="#666666"> 
+        <tspan x="607.101562" y="349">21</tspan> 
+      </text>  
+      <text id="22" font-size="8" fill="#666666"> 
+        <tspan x="607.101562" y="327">22</tspan> 
+      </text>  
+      <text id="23" font-size="8" fill="#666666"> 
+        <tspan x="607.101562" y="305">23</tspan> 
+      </text>  
+      <text id="24" font-size="8" fill="#666666"> 
+        <tspan x="607.101562" y="283">24</tspan> 
+      </text>  
+      <text id="25" font-size="8" fill="#666666"> 
+        <tspan x="467.101562" y="261">25</tspan> 
+      </text>  
+      <text id="25" font-size="8" fill="#666666"> 
+        <tspan x="748.101562" y="261">25</tspan> 
+      </text>  
+      <text id="Партер" font-size="13" fill="#888888"> 
+        <tspan x="590.106934" y="623">Партер</tspan> 
+      </text>  
+      <text id="1" font-size="8" fill="#666666"> 
+        <tspan x="183.550781" y="161">1</tspan> 
+      </text>  
+      <text id="2" font-size="8" fill="#666666"> 
+        <tspan x="183.550781" y="139">2</tspan> 
+      </text>  
+      <text id="3" font-size="8" fill="#666666"> 
+        <tspan x="183.550781" y="117">3</tspan> 
+      </text>  
+      <text id="4" font-size="8" fill="#666666"> 
+        <tspan x="183.550781" y="95">4</tspan> 
+      </text>  
+      <text id="5" font-size="8" fill="#666666"> 
+        <tspan x="203.550781" y="73">5</tspan> 
+      </text>  
+      <text id="1" font-size="8" fill="#666666"> 
+        <tspan x="428.550781" y="161">1</tspan> 
+      </text>  
+      <text id="2" font-size="8" fill="#666666"> 
+        <tspan x="428.550781" y="139">2</tspan> 
+      </text>  
+      <text id="3" font-size="8" fill="#666666"> 
+        <tspan x="428.550781" y="117">3</tspan> 
+      </text>  
+      <text id="4" font-size="8" fill="#666666"> 
+        <tspan x="428.550781" y="95">4</tspan> 
+      </text>  
+      <text id="5" font-size="8" fill="#666666"> 
+        <tspan x="428.550781" y="73">5</tspan> 
+      </text>  
+      <text id="6" font-size="8" fill="#666666"> 
+        <tspan x="203.550781" y="51">6</tspan> 
+      </text>  
+      <text id="7" font-size="8" fill="#666666"> 
+        <tspan x="183.550781" y="29">7</tspan> 
+      </text>  
+      <text id="8" font-size="8" fill="#666666"> 
+        <tspan x="183.550781" y="7">8</tspan> 
+      </text>  
+      <text id="1" font-size="8" fill="#666666"> 
+        <tspan x="1035.55078" y="161">1</tspan> 
+      </text>  
+      <text id="2" font-size="8" fill="#666666"> 
+        <tspan x="1035.55078" y="139">2</tspan> 
+      </text>  
+      <text id="3" font-size="8" fill="#666666"> 
+        <tspan x="1035.55078" y="117">3</tspan> 
+      </text>  
+      <text id="4" font-size="8" fill="#666666"> 
+        <tspan x="1035.55078" y="95">4</tspan> 
+      </text>  
+      <text id="5" font-size="8" fill="#666666"> 
+        <tspan x="1015.55078" y="73">5</tspan> 
+      </text>  
+      <text id="1" font-size="8" fill="#666666"> 
+        <tspan x="790.550781" y="161">1</tspan> 
+      </text>  
+      <text id="2" font-size="8" fill="#666666"> 
+        <tspan x="790.550781" y="139">2</tspan> 
+      </text>  
+      <text id="3" font-size="8" fill="#666666"> 
+        <tspan x="790.550781" y="117">3</tspan> 
+      </text>  
+      <text id="4" font-size="8" fill="#666666"> 
+        <tspan x="790.550781" y="95">4</tspan> 
+      </text>  
+      <text id="5" font-size="8" fill="#666666"> 
+        <tspan x="790.550781" y="73">5</tspan> 
+      </text>  
+      <text id="6" font-size="8" fill="#666666"> 
+        <tspan x="1015.55078" y="51">6</tspan> 
+      </text>  
+      <text id="7" font-size="8" fill="#666666"> 
+        <tspan x="1035.55078" y="29">7</tspan> 
+      </text>  
+      <text id="8" font-size="8" fill="#666666"> 
+        <tspan x="1035.55078" y="7">8</tspan> 
+      </text>  
+      <text id="Балкон" font-size="13" fill="#888888"> 
+        <tspan x="590.205322" y="17">Балкон</tspan> 
+      </text>  
+      <text id="Левый-балкон" transform="translate(1216.500000, 434.000000) rotate(-270.000000) translate(-1216.500000, -434.000000) " font-size="13" fill="#888888"> 
+        <tspan x="1173.95483" y="438.5">Левый балкон</tspan> 
+      </text>  
+      <text id="Правый-балкон" transform="translate(7.500000, 434.000000) rotate(-90.000000) translate(-7.500000, -434.000000) " font-size="13" fill="#888888"> 
+        <tspan x="-39.0664062" y="438.5">Правый балкон</tspan> 
+      </text> 
+    </g>  
+    <g transform="translate(165.000000, 255.000000)"> 
+      <circle fill="#DDDDDC" cx="838" cy="604" r="6" data-z="Партер" data-r="1" data-s="34" data-x="1003.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="604" r="6" data-z="Партер" data-r="1" data-s="33" data-x="983.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="604" r="6" data-z="Партер" data-r="1" data-s="32" data-x="963.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="604" r="6" data-z="Партер" data-r="1" data-s="31" data-x="943.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="604" r="6" data-z="Партер" data-r="1" data-s="30" data-x="923.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="604" r="6" data-z="Партер" data-r="1" data-s="29" data-x="903.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="604" r="6" data-z="Партер" data-r="1" data-s="28" data-x="883.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="604" r="6" data-z="Партер" data-r="1" data-s="27" data-x="863.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="604" r="6" data-z="Партер" data-r="1" data-s="26" data-x="843.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="604" r="6" data-z="Партер" data-r="1" data-s="25" data-x="823.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="604" r="6" data-z="Партер" data-r="1" data-s="24" data-x="803.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="604" r="6" data-z="Партер" data-r="1" data-s="23" data-x="783.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="604" r="6" data-z="Партер" data-r="1" data-s="22" data-x="763.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="604" r="6" data-z="Партер" data-r="1" data-s="21" data-x="743.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="604" r="6" data-z="Партер" data-r="1" data-s="20" data-x="723.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="604" r="6" data-z="Партер" data-r="1" data-s="19" data-x="703.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="604" r="6" data-z="Партер" data-r="1" data-s="18" data-x="683.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="604" r="6" data-z="Партер" data-r="1" data-s="17" data-x="663.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="604" r="6" data-z="Партер" data-r="1" data-s="16" data-x="603.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="604" r="6" data-z="Партер" data-r="1" data-s="15" data-x="583.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="604" r="6" data-z="Партер" data-r="1" data-s="14" data-x="563.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="604" r="6" data-z="Партер" data-r="1" data-s="13" data-x="543.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="604" r="6" data-z="Партер" data-r="1" data-s="12" data-x="523.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="604" r="6" data-z="Партер" data-r="1" data-s="11" data-x="503.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="604" r="6" data-z="Партер" data-r="1" data-s="10" data-x="483.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="604" r="6" data-z="Партер" data-r="1" data-s="9" data-x="463.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="604" r="6" data-z="Партер" data-r="1" data-s="8" data-x="443.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="604" r="6" data-z="Партер" data-r="1" data-s="7" data-x="423.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="604" r="6" data-z="Партер" data-r="1" data-s="6" data-x="403.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="604" r="6" data-z="Партер" data-r="1" data-s="5" data-x="383.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="604" r="6" data-z="Партер" data-r="1" data-s="4" data-x="363.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="604" r="6" data-z="Партер" data-r="1" data-s="3" data-x="343.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="604" r="6" data-z="Партер" data-r="1" data-s="2" data-x="323.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="604" r="6" data-z="Партер" data-r="1" data-s="1" data-x="303.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="604" r="6" data-z="Партер" data-r="1" data-s="0.1" data-x="283.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="604" r="6" data-z="Партер" data-r="1" data-s="0" data-x="263.0" data-y="859.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="582" r="6" data-z="Партер" data-r="2" data-s="36" data-x="1023.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="582" r="6" data-z="Партер" data-r="2" data-s="35" data-x="1003.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="582" r="6" data-z="Партер" data-r="2" data-s="34" data-x="983.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="582" r="6" data-z="Партер" data-r="2" data-s="33" data-x="963.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="582" r="6" data-z="Партер" data-r="2" data-s="32" data-x="943.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="582" r="6" data-z="Партер" data-r="2" data-s="31" data-x="923.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="582" r="6" data-z="Партер" data-r="2" data-s="30" data-x="903.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="582" r="6" data-z="Партер" data-r="2" data-s="29" data-x="883.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="582" r="6" data-z="Партер" data-r="2" data-s="28" data-x="863.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="582" r="6" data-z="Партер" data-r="2" data-s="27" data-x="843.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="582" r="6" data-z="Партер" data-r="2" data-s="26" data-x="823.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="582" r="6" data-z="Партер" data-r="2" data-s="25" data-x="803.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="582" r="6" data-z="Партер" data-r="2" data-s="24" data-x="783.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="582" r="6" data-z="Партер" data-r="2" data-s="23" data-x="763.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="582" r="6" data-z="Партер" data-r="2" data-s="22" data-x="743.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="582" r="6" data-z="Партер" data-r="2" data-s="21" data-x="723.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="582" r="6" data-z="Партер" data-r="2" data-s="20" data-x="703.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="582" r="6" data-z="Партер" data-r="2" data-s="19" data-x="683.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="582" r="6" data-z="Партер" data-r="2" data-s="18" data-x="663.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="582" r="6" data-z="Партер" data-r="2" data-s="17" data-x="603.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="582" r="6" data-z="Партер" data-r="2" data-s="16" data-x="583.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="582" r="6" data-z="Партер" data-r="2" data-s="15" data-x="563.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="582" r="6" data-z="Партер" data-r="2" data-s="14" data-x="543.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="582" r="6" data-z="Партер" data-r="2" data-s="13" data-x="523.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="582" r="6" data-z="Партер" data-r="2" data-s="12" data-x="503.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="582" r="6" data-z="Партер" data-r="2" data-s="11" data-x="483.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="582" r="6" data-z="Партер" data-r="2" data-s="10" data-x="463.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="582" r="6" data-z="Партер" data-r="2" data-s="9" data-x="443.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="582" r="6" data-z="Партер" data-r="2" data-s="8" data-x="423.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="582" r="6" data-z="Партер" data-r="2" data-s="7" data-x="403.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="582" r="6" data-z="Партер" data-r="2" data-s="6" data-x="383.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="582" r="6" data-z="Партер" data-r="2" data-s="5" data-x="363.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="582" r="6" data-z="Партер" data-r="2" data-s="4" data-x="343.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="582" r="6" data-z="Партер" data-r="2" data-s="3" data-x="323.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="582" r="6" data-z="Партер" data-r="2" data-s="2" data-x="303.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="582" r="6" data-z="Партер" data-r="2" data-s="1" data-x="283.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="582" r="6" data-z="Партер" data-r="2" data-s="0.1" data-x="263.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="582" r="6" data-z="Партер" data-r="2" data-s="0" data-x="243.0" data-y="837.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="560" r="6" data-z="Партер" data-r="3" data-s="36" data-x="1023.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="560" r="6" data-z="Партер" data-r="3" data-s="35" data-x="1003.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="560" r="6" data-z="Партер" data-r="3" data-s="34" data-x="983.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="560" r="6" data-z="Партер" data-r="3" data-s="33" data-x="963.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="560" r="6" data-z="Партер" data-r="3" data-s="32" data-x="943.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="560" r="6" data-z="Партер" data-r="3" data-s="31" data-x="923.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="560" r="6" data-z="Партер" data-r="3" data-s="30" data-x="903.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="560" r="6" data-z="Партер" data-r="3" data-s="29" data-x="883.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="560" r="6" data-z="Партер" data-r="3" data-s="28" data-x="863.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="560" r="6" data-z="Партер" data-r="3" data-s="27" data-x="843.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="560" r="6" data-z="Партер" data-r="3" data-s="26" data-x="823.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="560" r="6" data-z="Партер" data-r="3" data-s="25" data-x="803.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="560" r="6" data-z="Партер" data-r="3" data-s="24" data-x="783.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="560" r="6" data-z="Партер" data-r="3" data-s="23" data-x="763.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="560" r="6" data-z="Партер" data-r="3" data-s="22" data-x="743.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="560" r="6" data-z="Партер" data-r="3" data-s="21" data-x="723.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="560" r="6" data-z="Партер" data-r="3" data-s="20" data-x="703.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="560" r="6" data-z="Партер" data-r="3" data-s="19" data-x="683.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="560" r="6" data-z="Партер" data-r="3" data-s="18" data-x="663.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="560" r="6" data-z="Партер" data-r="3" data-s="17" data-x="603.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="560" r="6" data-z="Партер" data-r="3" data-s="16" data-x="583.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="560" r="6" data-z="Партер" data-r="3" data-s="15" data-x="563.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="560" r="6" data-z="Партер" data-r="3" data-s="14" data-x="543.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="560" r="6" data-z="Партер" data-r="3" data-s="13" data-x="523.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="560" r="6" data-z="Партер" data-r="3" data-s="12" data-x="503.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="560" r="6" data-z="Партер" data-r="3" data-s="11" data-x="483.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="560" r="6" data-z="Партер" data-r="3" data-s="10" data-x="463.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="560" r="6" data-z="Партер" data-r="3" data-s="9" data-x="443.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="560" r="6" data-z="Партер" data-r="3" data-s="8" data-x="423.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="560" r="6" data-z="Партер" data-r="3" data-s="7" data-x="403.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="560" r="6" data-z="Партер" data-r="3" data-s="6" data-x="383.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="560" r="6" data-z="Партер" data-r="3" data-s="5" data-x="363.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="560" r="6" data-z="Партер" data-r="3" data-s="4" data-x="343.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="560" r="6" data-z="Партер" data-r="3" data-s="3" data-x="323.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="560" r="6" data-z="Партер" data-r="3" data-s="2" data-x="303.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="560" r="6" data-z="Партер" data-r="3" data-s="1" data-x="283.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="560" r="6" data-z="Партер" data-r="3" data-s="0.1" data-x="263.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="560" r="6" data-z="Партер" data-r="3" data-s="0" data-x="243.0" data-y="815.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="538" r="6" data-z="Партер" data-r="4" data-s="38" data-x="1043.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="538" r="6" data-z="Партер" data-r="4" data-s="37" data-x="1023.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="538" r="6" data-z="Партер" data-r="4" data-s="36" data-x="1003.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="538" r="6" data-z="Партер" data-r="4" data-s="35" data-x="983.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="538" r="6" data-z="Партер" data-r="4" data-s="34" data-x="963.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="538" r="6" data-z="Партер" data-r="4" data-s="33" data-x="943.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="538" r="6" data-z="Партер" data-r="4" data-s="32" data-x="923.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="538" r="6" data-z="Партер" data-r="4" data-s="31" data-x="903.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="538" r="6" data-z="Партер" data-r="4" data-s="30" data-x="883.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="538" r="6" data-z="Партер" data-r="4" data-s="29" data-x="863.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="538" r="6" data-z="Партер" data-r="4" data-s="28" data-x="843.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="538" r="6" data-z="Партер" data-r="4" data-s="27" data-x="823.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="538" r="6" data-z="Партер" data-r="4" data-s="26" data-x="803.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="538" r="6" data-z="Партер" data-r="4" data-s="25" data-x="783.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="538" r="6" data-z="Партер" data-r="4" data-s="24" data-x="763.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="538" r="6" data-z="Партер" data-r="4" data-s="23" data-x="743.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="538" r="6" data-z="Партер" data-r="4" data-s="22" data-x="723.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="538" r="6" data-z="Партер" data-r="4" data-s="21" data-x="703.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="538" r="6" data-z="Партер" data-r="4" data-s="20" data-x="683.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="538" r="6" data-z="Партер" data-r="4" data-s="19" data-x="663.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="538" r="6" data-z="Партер" data-r="4" data-s="18" data-x="603.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="538" r="6" data-z="Партер" data-r="4" data-s="17" data-x="583.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="538" r="6" data-z="Партер" data-r="4" data-s="16" data-x="563.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="538" r="6" data-z="Партер" data-r="4" data-s="15" data-x="543.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="538" r="6" data-z="Партер" data-r="4" data-s="14" data-x="523.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="538" r="6" data-z="Партер" data-r="4" data-s="13" data-x="503.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="538" r="6" data-z="Партер" data-r="4" data-s="12" data-x="483.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="538" r="6" data-z="Партер" data-r="4" data-s="11" data-x="463.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="538" r="6" data-z="Партер" data-r="4" data-s="10" data-x="443.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="538" r="6" data-z="Партер" data-r="4" data-s="9" data-x="423.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="538" r="6" data-z="Партер" data-r="4" data-s="8" data-x="403.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="538" r="6" data-z="Партер" data-r="4" data-s="7" data-x="383.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="538" r="6" data-z="Партер" data-r="4" data-s="6" data-x="363.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="538" r="6" data-z="Партер" data-r="4" data-s="5" data-x="343.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="538" r="6" data-z="Партер" data-r="4" data-s="4" data-x="323.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="538" r="6" data-z="Партер" data-r="4" data-s="3" data-x="303.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="538" r="6" data-z="Партер" data-r="4" data-s="2" data-x="283.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="538" r="6" data-z="Партер" data-r="4" data-s="1" data-x="263.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="538" r="6" data-z="Партер" data-r="4" data-s="0.1" data-x="243.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="538" r="6" data-z="Партер" data-r="4" data-s="0" data-x="223.0" data-y="793.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="516" r="6" data-z="Партер" data-r="5" data-s="38" data-x="1043.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="516" r="6" data-z="Партер" data-r="5" data-s="37" data-x="1023.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="516" r="6" data-z="Партер" data-r="5" data-s="36" data-x="1003.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="516" r="6" data-z="Партер" data-r="5" data-s="35" data-x="983.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="516" r="6" data-z="Партер" data-r="5" data-s="34" data-x="963.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="516" r="6" data-z="Партер" data-r="5" data-s="33" data-x="943.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="516" r="6" data-z="Партер" data-r="5" data-s="32" data-x="923.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="516" r="6" data-z="Партер" data-r="5" data-s="31" data-x="903.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="516" r="6" data-z="Партер" data-r="5" data-s="30" data-x="883.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="516" r="6" data-z="Партер" data-r="5" data-s="29" data-x="863.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="516" r="6" data-z="Партер" data-r="5" data-s="28" data-x="843.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="516" r="6" data-z="Партер" data-r="5" data-s="27" data-x="823.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="516" r="6" data-z="Партер" data-r="5" data-s="26" data-x="803.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="516" r="6" data-z="Партер" data-r="5" data-s="25" data-x="783.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="516" r="6" data-z="Партер" data-r="5" data-s="24" data-x="763.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="516" r="6" data-z="Партер" data-r="5" data-s="23" data-x="743.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="516" r="6" data-z="Партер" data-r="5" data-s="22" data-x="723.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="516" r="6" data-z="Партер" data-r="5" data-s="21" data-x="703.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="516" r="6" data-z="Партер" data-r="5" data-s="20" data-x="683.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="516" r="6" data-z="Партер" data-r="5" data-s="19" data-x="663.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="516" r="6" data-z="Партер" data-r="5" data-s="18" data-x="603.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="516" r="6" data-z="Партер" data-r="5" data-s="17" data-x="583.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="516" r="6" data-z="Партер" data-r="5" data-s="16" data-x="563.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="516" r="6" data-z="Партер" data-r="5" data-s="15" data-x="543.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="516" r="6" data-z="Партер" data-r="5" data-s="14" data-x="523.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="516" r="6" data-z="Партер" data-r="5" data-s="13" data-x="503.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="516" r="6" data-z="Партер" data-r="5" data-s="12" data-x="483.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="516" r="6" data-z="Партер" data-r="5" data-s="11" data-x="463.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="516" r="6" data-z="Партер" data-r="5" data-s="10" data-x="443.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="516" r="6" data-z="Партер" data-r="5" data-s="9" data-x="423.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="516" r="6" data-z="Партер" data-r="5" data-s="8" data-x="403.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="516" r="6" data-z="Партер" data-r="5" data-s="7" data-x="383.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="516" r="6" data-z="Партер" data-r="5" data-s="6" data-x="363.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="516" r="6" data-z="Партер" data-r="5" data-s="5" data-x="343.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="516" r="6" data-z="Партер" data-r="5" data-s="4" data-x="323.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="516" r="6" data-z="Партер" data-r="5" data-s="3" data-x="303.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="516" r="6" data-z="Партер" data-r="5" data-s="2" data-x="283.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="516" r="6" data-z="Партер" data-r="5" data-s="1" data-x="263.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="516" r="6" data-z="Партер" data-r="5" data-s="0.1" data-x="243.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="516" r="6" data-z="Партер" data-r="5" data-s="0" data-x="223.0" data-y="771.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="494" r="6" data-z="Партер" data-r="6" data-s="39" data-x="1043.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="494" r="6" data-z="Партер" data-r="6" data-s="38" data-x="1023.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="494" r="6" data-z="Партер" data-r="6" data-s="37" data-x="1003.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="494" r="6" data-z="Партер" data-r="6" data-s="36" data-x="983.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="494" r="6" data-z="Партер" data-r="6" data-s="35" data-x="963.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="494" r="6" data-z="Партер" data-r="6" data-s="34" data-x="943.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="494" r="6" data-z="Партер" data-r="6" data-s="33" data-x="923.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="494" r="6" data-z="Партер" data-r="6" data-s="32" data-x="903.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="494" r="6" data-z="Партер" data-r="6" data-s="31" data-x="883.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="494" r="6" data-z="Партер" data-r="6" data-s="30" data-x="863.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="494" r="6" data-z="Партер" data-r="6" data-s="29" data-x="843.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="494" r="6" data-z="Партер" data-r="6" data-s="28" data-x="823.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="494" r="6" data-z="Партер" data-r="6" data-s="27" data-x="803.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="494" r="6" data-z="Партер" data-r="6" data-s="26" data-x="783.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="494" r="6" data-z="Партер" data-r="6" data-s="25" data-x="763.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="494" r="6" data-z="Партер" data-r="6" data-s="24" data-x="743.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="494" r="6" data-z="Партер" data-r="6" data-s="23" data-x="723.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="494" r="6" data-z="Партер" data-r="6" data-s="22" data-x="703.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="494" r="6" data-z="Партер" data-r="6" data-s="21" data-x="683.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="494" r="6" data-z="Партер" data-r="6" data-s="20" data-x="663.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="494" r="6" data-z="Партер" data-r="6" data-s="19" data-x="603.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="494" r="6" data-z="Партер" data-r="6" data-s="18" data-x="583.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="494" r="6" data-z="Партер" data-r="6" data-s="17" data-x="563.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="494" r="6" data-z="Партер" data-r="6" data-s="16" data-x="543.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="494" r="6" data-z="Партер" data-r="6" data-s="15" data-x="523.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="494" r="6" data-z="Партер" data-r="6" data-s="14" data-x="503.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="494" r="6" data-z="Партер" data-r="6" data-s="13" data-x="483.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="494" r="6" data-z="Партер" data-r="6" data-s="12" data-x="463.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="494" r="6" data-z="Партер" data-r="6" data-s="11" data-x="443.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="494" r="6" data-z="Партер" data-r="6" data-s="10" data-x="423.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="494" r="6" data-z="Партер" data-r="6" data-s="9" data-x="403.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="494" r="6" data-z="Партер" data-r="6" data-s="8" data-x="383.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="494" r="6" data-z="Партер" data-r="6" data-s="7" data-x="363.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="494" r="6" data-z="Партер" data-r="6" data-s="6" data-x="343.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="494" r="6" data-z="Партер" data-r="6" data-s="5" data-x="323.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="494" r="6" data-z="Партер" data-r="6" data-s="4" data-x="303.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="494" r="6" data-z="Партер" data-r="6" data-s="3" data-x="283.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="494" r="6" data-z="Партер" data-r="6" data-s="2" data-x="263.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="494" r="6" data-z="Партер" data-r="6" data-s="1" data-x="243.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="494" r="6" data-z="Партер" data-r="6" data-s="0" data-x="223.0" data-y="749.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="472" r="6" data-z="Партер" data-r="7" data-s="39" data-x="1043.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="472" r="6" data-z="Партер" data-r="7" data-s="38" data-x="1023.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="472" r="6" data-z="Партер" data-r="7" data-s="37" data-x="1003.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="472" r="6" data-z="Партер" data-r="7" data-s="36" data-x="983.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="472" r="6" data-z="Партер" data-r="7" data-s="35" data-x="963.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="472" r="6" data-z="Партер" data-r="7" data-s="34" data-x="943.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="472" r="6" data-z="Партер" data-r="7" data-s="33" data-x="923.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="472" r="6" data-z="Партер" data-r="7" data-s="32" data-x="903.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="472" r="6" data-z="Партер" data-r="7" data-s="31" data-x="883.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="472" r="6" data-z="Партер" data-r="7" data-s="30" data-x="863.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="472" r="6" data-z="Партер" data-r="7" data-s="29" data-x="843.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="472" r="6" data-z="Партер" data-r="7" data-s="28" data-x="823.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="472" r="6" data-z="Партер" data-r="7" data-s="27" data-x="803.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="472" r="6" data-z="Партер" data-r="7" data-s="26" data-x="783.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="472" r="6" data-z="Партер" data-r="7" data-s="25" data-x="763.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="472" r="6" data-z="Партер" data-r="7" data-s="24" data-x="743.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="472" r="6" data-z="Партер" data-r="7" data-s="23" data-x="723.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="472" r="6" data-z="Партер" data-r="7" data-s="22" data-x="703.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="472" r="6" data-z="Партер" data-r="7" data-s="21" data-x="683.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="472" r="6" data-z="Партер" data-r="7" data-s="20" data-x="663.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="472" r="6" data-z="Партер" data-r="7" data-s="19" data-x="603.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="472" r="6" data-z="Партер" data-r="7" data-s="18" data-x="583.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="472" r="6" data-z="Партер" data-r="7" data-s="17" data-x="563.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="472" r="6" data-z="Партер" data-r="7" data-s="16" data-x="543.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="472" r="6" data-z="Партер" data-r="7" data-s="15" data-x="523.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="472" r="6" data-z="Партер" data-r="7" data-s="14" data-x="503.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="472" r="6" data-z="Партер" data-r="7" data-s="13" data-x="483.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="472" r="6" data-z="Партер" data-r="7" data-s="12" data-x="463.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="472" r="6" data-z="Партер" data-r="7" data-s="11" data-x="443.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="472" r="6" data-z="Партер" data-r="7" data-s="10" data-x="423.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="472" r="6" data-z="Партер" data-r="7" data-s="9" data-x="403.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="472" r="6" data-z="Партер" data-r="7" data-s="8" data-x="383.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="472" r="6" data-z="Партер" data-r="7" data-s="7" data-x="363.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="472" r="6" data-z="Партер" data-r="7" data-s="6" data-x="343.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="472" r="6" data-z="Партер" data-r="7" data-s="5" data-x="323.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="472" r="6" data-z="Партер" data-r="7" data-s="4" data-x="303.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="472" r="6" data-z="Партер" data-r="7" data-s="3" data-x="283.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="472" r="6" data-z="Партер" data-r="7" data-s="2" data-x="263.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="472" r="6" data-z="Партер" data-r="7" data-s="1" data-x="243.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="472" r="6" data-z="Партер" data-r="7" data-s="0" data-x="223.0" data-y="727.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="450" r="6" data-z="Партер" data-r="8" data-s="40" data-x="1043.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="450" r="6" data-z="Партер" data-r="8" data-s="39" data-x="1023.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="450" r="6" data-z="Партер" data-r="8" data-s="38" data-x="1003.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="450" r="6" data-z="Партер" data-r="8" data-s="37" data-x="983.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="450" r="6" data-z="Партер" data-r="8" data-s="36" data-x="963.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="450" r="6" data-z="Партер" data-r="8" data-s="35" data-x="943.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="450" r="6" data-z="Партер" data-r="8" data-s="34" data-x="923.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="450" r="6" data-z="Партер" data-r="8" data-s="33" data-x="903.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="450" r="6" data-z="Партер" data-r="8" data-s="32" data-x="883.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="450" r="6" data-z="Партер" data-r="8" data-s="31" data-x="863.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="450" r="6" data-z="Партер" data-r="8" data-s="30" data-x="843.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="450" r="6" data-z="Партер" data-r="8" data-s="29" data-x="823.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="450" r="6" data-z="Партер" data-r="8" data-s="28" data-x="803.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="450" r="6" data-z="Партер" data-r="8" data-s="27" data-x="783.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="450" r="6" data-z="Партер" data-r="8" data-s="26" data-x="763.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="450" r="6" data-z="Партер" data-r="8" data-s="25" data-x="743.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="450" r="6" data-z="Партер" data-r="8" data-s="24" data-x="723.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="450" r="6" data-z="Партер" data-r="8" data-s="23" data-x="703.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="450" r="6" data-z="Партер" data-r="8" data-s="22" data-x="683.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="450" r="6" data-z="Партер" data-r="8" data-s="21" data-x="663.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="450" r="6" data-z="Партер" data-r="8" data-s="20" data-x="603.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="450" r="6" data-z="Партер" data-r="8" data-s="19" data-x="583.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="450" r="6" data-z="Партер" data-r="8" data-s="18" data-x="563.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="450" r="6" data-z="Партер" data-r="8" data-s="17" data-x="543.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="450" r="6" data-z="Партер" data-r="8" data-s="16" data-x="523.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="450" r="6" data-z="Партер" data-r="8" data-s="15" data-x="503.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="450" r="6" data-z="Партер" data-r="8" data-s="14" data-x="483.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="450" r="6" data-z="Партер" data-r="8" data-s="13" data-x="463.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="450" r="6" data-z="Партер" data-r="8" data-s="12" data-x="443.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="450" r="6" data-z="Партер" data-r="8" data-s="11" data-x="423.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="450" r="6" data-z="Партер" data-r="8" data-s="10" data-x="403.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="450" r="6" data-z="Партер" data-r="8" data-s="9" data-x="383.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="450" r="6" data-z="Партер" data-r="8" data-s="8" data-x="363.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="450" r="6" data-z="Партер" data-r="8" data-s="7" data-x="343.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="450" r="6" data-z="Партер" data-r="8" data-s="6" data-x="323.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="450" r="6" data-z="Партер" data-r="8" data-s="5" data-x="303.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="450" r="6" data-z="Партер" data-r="8" data-s="4" data-x="283.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="450" r="6" data-z="Партер" data-r="8" data-s="3" data-x="263.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="450" r="6" data-z="Партер" data-r="8" data-s="2" data-x="243.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="450" r="6" data-z="Партер" data-r="8" data-s="1" data-x="223.0" data-y="705.0" />  
+      <circle fill="#DDDDDC" cx="898" cy="428" r="6" data-z="Партер" data-r="9" data-s="42" data-x="1063.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="428" r="6" data-z="Партер" data-r="9" data-s="41" data-x="1043.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="428" r="6" data-z="Партер" data-r="9" data-s="40" data-x="1023.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="428" r="6" data-z="Партер" data-r="9" data-s="39" data-x="1003.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="428" r="6" data-z="Партер" data-r="9" data-s="38" data-x="983.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="428" r="6" data-z="Партер" data-r="9" data-s="37" data-x="963.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="428" r="6" data-z="Партер" data-r="9" data-s="36" data-x="943.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="428" r="6" data-z="Партер" data-r="9" data-s="35" data-x="923.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="428" r="6" data-z="Партер" data-r="9" data-s="34" data-x="903.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="428" r="6" data-z="Партер" data-r="9" data-s="33" data-x="883.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="428" r="6" data-z="Партер" data-r="9" data-s="32" data-x="863.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="428" r="6" data-z="Партер" data-r="9" data-s="31" data-x="843.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="428" r="6" data-z="Партер" data-r="9" data-s="30" data-x="823.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="428" r="6" data-z="Партер" data-r="9" data-s="29" data-x="803.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="428" r="6" data-z="Партер" data-r="9" data-s="28" data-x="783.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="428" r="6" data-z="Партер" data-r="9" data-s="27" data-x="763.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="428" r="6" data-z="Партер" data-r="9" data-s="26" data-x="743.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="428" r="6" data-z="Партер" data-r="9" data-s="25" data-x="723.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="428" r="6" data-z="Партер" data-r="9" data-s="24" data-x="703.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="428" r="6" data-z="Партер" data-r="9" data-s="23" data-x="683.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="428" r="6" data-z="Партер" data-r="9" data-s="22" data-x="663.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="428" r="6" data-z="Партер" data-r="9" data-s="21" data-x="603.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="428" r="6" data-z="Партер" data-r="9" data-s="20" data-x="583.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="428" r="6" data-z="Партер" data-r="9" data-s="19" data-x="563.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="428" r="6" data-z="Партер" data-r="9" data-s="18" data-x="543.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="428" r="6" data-z="Партер" data-r="9" data-s="17" data-x="523.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="428" r="6" data-z="Партер" data-r="9" data-s="16" data-x="503.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="428" r="6" data-z="Партер" data-r="9" data-s="15" data-x="483.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="428" r="6" data-z="Партер" data-r="9" data-s="14" data-x="463.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="428" r="6" data-z="Партер" data-r="9" data-s="13" data-x="443.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="428" r="6" data-z="Партер" data-r="9" data-s="12" data-x="423.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="428" r="6" data-z="Партер" data-r="9" data-s="11" data-x="403.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="428" r="6" data-z="Партер" data-r="9" data-s="10" data-x="383.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="428" r="6" data-z="Партер" data-r="9" data-s="9" data-x="363.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="428" r="6" data-z="Партер" data-r="9" data-s="8" data-x="343.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="428" r="6" data-z="Партер" data-r="9" data-s="7" data-x="323.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="428" r="6" data-z="Партер" data-r="9" data-s="6" data-x="303.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="428" r="6" data-z="Партер" data-r="9" data-s="5" data-x="283.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="428" r="6" data-z="Партер" data-r="9" data-s="4" data-x="263.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="428" r="6" data-z="Партер" data-r="9" data-s="3" data-x="243.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="428" r="6" data-z="Партер" data-r="9" data-s="2" data-x="223.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="38" cy="428" r="6" data-z="Партер" data-r="9" data-s="1" data-x="203.0" data-y="683.0" />  
+      <circle fill="#DDDDDC" cx="898" cy="346" r="6" data-z="Партер" data-r="11" data-s="42" data-x="1063.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="346" r="6" data-z="Партер" data-r="11" data-s="41" data-x="1043.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="346" r="6" data-z="Партер" data-r="11" data-s="40" data-x="1023.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="346" r="6" data-z="Партер" data-r="11" data-s="39" data-x="1003.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="346" r="6" data-z="Партер" data-r="11" data-s="38" data-x="983.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="346" r="6" data-z="Партер" data-r="11" data-s="37" data-x="963.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="346" r="6" data-z="Партер" data-r="11" data-s="36" data-x="943.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="346" r="6" data-z="Партер" data-r="11" data-s="35" data-x="923.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="346" r="6" data-z="Партер" data-r="11" data-s="34" data-x="903.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="346" r="6" data-z="Партер" data-r="11" data-s="33" data-x="883.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="346" r="6" data-z="Партер" data-r="11" data-s="32" data-x="863.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="346" r="6" data-z="Партер" data-r="11" data-s="31" data-x="843.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="346" r="6" data-z="Партер" data-r="11" data-s="30" data-x="823.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="346" r="6" data-z="Партер" data-r="11" data-s="29" data-x="803.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="346" r="6" data-z="Партер" data-r="11" data-s="28" data-x="783.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="346" r="6" data-z="Партер" data-r="11" data-s="27" data-x="763.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="346" r="6" data-z="Партер" data-r="11" data-s="26" data-x="743.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="346" r="6" data-z="Партер" data-r="11" data-s="25" data-x="723.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="346" r="6" data-z="Партер" data-r="11" data-s="24" data-x="703.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="346" r="6" data-z="Партер" data-r="11" data-s="23" data-x="683.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="346" r="6" data-z="Партер" data-r="11" data-s="22" data-x="663.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="346" r="6" data-z="Партер" data-r="11" data-s="21" data-x="603.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="346" r="6" data-z="Партер" data-r="11" data-s="20" data-x="583.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="346" r="6" data-z="Партер" data-r="11" data-s="19" data-x="563.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="346" r="6" data-z="Партер" data-r="11" data-s="18" data-x="543.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="346" r="6" data-z="Партер" data-r="11" data-s="17" data-x="523.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="346" r="6" data-z="Партер" data-r="11" data-s="16" data-x="503.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="346" r="6" data-z="Партер" data-r="11" data-s="15" data-x="483.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="346" r="6" data-z="Партер" data-r="11" data-s="14" data-x="463.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="346" r="6" data-z="Партер" data-r="11" data-s="13" data-x="443.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="346" r="6" data-z="Партер" data-r="11" data-s="12" data-x="423.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="346" r="6" data-z="Партер" data-r="11" data-s="11" data-x="403.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="346" r="6" data-z="Партер" data-r="11" data-s="10" data-x="383.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="346" r="6" data-z="Партер" data-r="11" data-s="9" data-x="363.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="346" r="6" data-z="Партер" data-r="11" data-s="8" data-x="343.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="346" r="6" data-z="Партер" data-r="11" data-s="7" data-x="323.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="346" r="6" data-z="Партер" data-r="11" data-s="6" data-x="303.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="346" r="6" data-z="Партер" data-r="11" data-s="5" data-x="283.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="346" r="6" data-z="Партер" data-r="11" data-s="4" data-x="263.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="346" r="6" data-z="Партер" data-r="11" data-s="3" data-x="243.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="346" r="6" data-z="Партер" data-r="11" data-s="2" data-x="223.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="38" cy="346" r="6" data-z="Партер" data-r="11" data-s="1" data-x="203.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="898" cy="324" r="6" data-z="Партер" data-r="12" data-s="42" data-x="1063.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="324" r="6" data-z="Партер" data-r="12" data-s="41" data-x="1043.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="324" r="6" data-z="Партер" data-r="12" data-s="40" data-x="1023.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="324" r="6" data-z="Партер" data-r="12" data-s="39" data-x="1003.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="324" r="6" data-z="Партер" data-r="12" data-s="38" data-x="983.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="324" r="6" data-z="Партер" data-r="12" data-s="37" data-x="963.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="324" r="6" data-z="Партер" data-r="12" data-s="36" data-x="943.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="324" r="6" data-z="Партер" data-r="12" data-s="35" data-x="923.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="324" r="6" data-z="Партер" data-r="12" data-s="34" data-x="903.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="324" r="6" data-z="Партер" data-r="12" data-s="33" data-x="883.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="324" r="6" data-z="Партер" data-r="12" data-s="32" data-x="863.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="324" r="6" data-z="Партер" data-r="12" data-s="31" data-x="843.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="324" r="6" data-z="Партер" data-r="12" data-s="30" data-x="823.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="324" r="6" data-z="Партер" data-r="12" data-s="29" data-x="803.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="324" r="6" data-z="Партер" data-r="12" data-s="28" data-x="783.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="324" r="6" data-z="Партер" data-r="12" data-s="27" data-x="763.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="324" r="6" data-z="Партер" data-r="12" data-s="26" data-x="743.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="324" r="6" data-z="Партер" data-r="12" data-s="25" data-x="723.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="324" r="6" data-z="Партер" data-r="12" data-s="24" data-x="703.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="324" r="6" data-z="Партер" data-r="12" data-s="23" data-x="683.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="324" r="6" data-z="Партер" data-r="12" data-s="22" data-x="663.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="324" r="6" data-z="Партер" data-r="12" data-s="21" data-x="603.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="324" r="6" data-z="Партер" data-r="12" data-s="20" data-x="583.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="324" r="6" data-z="Партер" data-r="12" data-s="19" data-x="563.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="324" r="6" data-z="Партер" data-r="12" data-s="18" data-x="543.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="324" r="6" data-z="Партер" data-r="12" data-s="17" data-x="523.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="324" r="6" data-z="Партер" data-r="12" data-s="16" data-x="503.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="324" r="6" data-z="Партер" data-r="12" data-s="15" data-x="483.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="324" r="6" data-z="Партер" data-r="12" data-s="14" data-x="463.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="324" r="6" data-z="Партер" data-r="12" data-s="13" data-x="443.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="324" r="6" data-z="Партер" data-r="12" data-s="12" data-x="423.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="324" r="6" data-z="Партер" data-r="12" data-s="11" data-x="403.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="324" r="6" data-z="Партер" data-r="12" data-s="10" data-x="383.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="324" r="6" data-z="Партер" data-r="12" data-s="9" data-x="363.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="324" r="6" data-z="Партер" data-r="12" data-s="8" data-x="343.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="324" r="6" data-z="Партер" data-r="12" data-s="7" data-x="323.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="324" r="6" data-z="Партер" data-r="12" data-s="6" data-x="303.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="324" r="6" data-z="Партер" data-r="12" data-s="5" data-x="283.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="324" r="6" data-z="Партер" data-r="12" data-s="4" data-x="263.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="324" r="6" data-z="Партер" data-r="12" data-s="3" data-x="243.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="324" r="6" data-z="Партер" data-r="12" data-s="2" data-x="223.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="38" cy="324" r="6" data-z="Партер" data-r="12" data-s="1" data-x="203.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="898" cy="302" r="6" data-z="Партер" data-r="13" data-s="42" data-x="1063.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="302" r="6" data-z="Партер" data-r="13" data-s="41" data-x="1043.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="302" r="6" data-z="Партер" data-r="13" data-s="40" data-x="1023.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="302" r="6" data-z="Партер" data-r="13" data-s="39" data-x="1003.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="302" r="6" data-z="Партер" data-r="13" data-s="38" data-x="983.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="302" r="6" data-z="Партер" data-r="13" data-s="37" data-x="963.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="302" r="6" data-z="Партер" data-r="13" data-s="36" data-x="943.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="302" r="6" data-z="Партер" data-r="13" data-s="35" data-x="923.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="302" r="6" data-z="Партер" data-r="13" data-s="34" data-x="903.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="302" r="6" data-z="Партер" data-r="13" data-s="33" data-x="883.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="302" r="6" data-z="Партер" data-r="13" data-s="32" data-x="863.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="302" r="6" data-z="Партер" data-r="13" data-s="31" data-x="843.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="302" r="6" data-z="Партер" data-r="13" data-s="30" data-x="823.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="302" r="6" data-z="Партер" data-r="13" data-s="29" data-x="803.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="302" r="6" data-z="Партер" data-r="13" data-s="28" data-x="783.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="302" r="6" data-z="Партер" data-r="13" data-s="27" data-x="763.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="302" r="6" data-z="Партер" data-r="13" data-s="26" data-x="743.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="302" r="6" data-z="Партер" data-r="13" data-s="25" data-x="723.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="302" r="6" data-z="Партер" data-r="13" data-s="24" data-x="703.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="302" r="6" data-z="Партер" data-r="13" data-s="23" data-x="683.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="302" r="6" data-z="Партер" data-r="13" data-s="22" data-x="663.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="302" r="6" data-z="Партер" data-r="13" data-s="21" data-x="603.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="302" r="6" data-z="Партер" data-r="13" data-s="20" data-x="583.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="302" r="6" data-z="Партер" data-r="13" data-s="19" data-x="563.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="302" r="6" data-z="Партер" data-r="13" data-s="18" data-x="543.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="302" r="6" data-z="Партер" data-r="13" data-s="17" data-x="523.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="302" r="6" data-z="Партер" data-r="13" data-s="16" data-x="503.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="302" r="6" data-z="Партер" data-r="13" data-s="15" data-x="483.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="302" r="6" data-z="Партер" data-r="13" data-s="14" data-x="463.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="302" r="6" data-z="Партер" data-r="13" data-s="13" data-x="443.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="302" r="6" data-z="Партер" data-r="13" data-s="12" data-x="423.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="302" r="6" data-z="Партер" data-r="13" data-s="11" data-x="403.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="302" r="6" data-z="Партер" data-r="13" data-s="10" data-x="383.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="302" r="6" data-z="Партер" data-r="13" data-s="9" data-x="363.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="302" r="6" data-z="Партер" data-r="13" data-s="8" data-x="343.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="302" r="6" data-z="Партер" data-r="13" data-s="7" data-x="323.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="302" r="6" data-z="Партер" data-r="13" data-s="6" data-x="303.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="302" r="6" data-z="Партер" data-r="13" data-s="5" data-x="283.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="302" r="6" data-z="Партер" data-r="13" data-s="4" data-x="263.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="302" r="6" data-z="Партер" data-r="13" data-s="3" data-x="243.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="302" r="6" data-z="Партер" data-r="13" data-s="2" data-x="223.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="38" cy="302" r="6" data-z="Партер" data-r="13" data-s="1" data-x="203.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="898" cy="280" r="6" data-z="Партер" data-r="14" data-s="42" data-x="1063.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="280" r="6" data-z="Партер" data-r="14" data-s="41" data-x="1043.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="280" r="6" data-z="Партер" data-r="14" data-s="40" data-x="1023.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="280" r="6" data-z="Партер" data-r="14" data-s="39" data-x="1003.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="280" r="6" data-z="Партер" data-r="14" data-s="38" data-x="983.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="280" r="6" data-z="Партер" data-r="14" data-s="37" data-x="963.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="280" r="6" data-z="Партер" data-r="14" data-s="36" data-x="943.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="280" r="6" data-z="Партер" data-r="14" data-s="35" data-x="923.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="280" r="6" data-z="Партер" data-r="14" data-s="34" data-x="903.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="280" r="6" data-z="Партер" data-r="14" data-s="33" data-x="883.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="280" r="6" data-z="Партер" data-r="14" data-s="32" data-x="863.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="280" r="6" data-z="Партер" data-r="14" data-s="31" data-x="843.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="280" r="6" data-z="Партер" data-r="14" data-s="30" data-x="823.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="280" r="6" data-z="Партер" data-r="14" data-s="29" data-x="803.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="280" r="6" data-z="Партер" data-r="14" data-s="28" data-x="783.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="280" r="6" data-z="Партер" data-r="14" data-s="27" data-x="763.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="280" r="6" data-z="Партер" data-r="14" data-s="26" data-x="743.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="280" r="6" data-z="Партер" data-r="14" data-s="25" data-x="723.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="280" r="6" data-z="Партер" data-r="14" data-s="24" data-x="703.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="280" r="6" data-z="Партер" data-r="14" data-s="23" data-x="683.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="280" r="6" data-z="Партер" data-r="14" data-s="22" data-x="663.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="280" r="6" data-z="Партер" data-r="14" data-s="21" data-x="603.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="280" r="6" data-z="Партер" data-r="14" data-s="20" data-x="583.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="280" r="6" data-z="Партер" data-r="14" data-s="19" data-x="563.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="280" r="6" data-z="Партер" data-r="14" data-s="18" data-x="543.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="280" r="6" data-z="Партер" data-r="14" data-s="17" data-x="523.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="280" r="6" data-z="Партер" data-r="14" data-s="16" data-x="503.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="280" r="6" data-z="Партер" data-r="14" data-s="15" data-x="483.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="280" r="6" data-z="Партер" data-r="14" data-s="14" data-x="463.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="280" r="6" data-z="Партер" data-r="14" data-s="13" data-x="443.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="280" r="6" data-z="Партер" data-r="14" data-s="12" data-x="423.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="280" r="6" data-z="Партер" data-r="14" data-s="11" data-x="403.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="280" r="6" data-z="Партер" data-r="14" data-s="10" data-x="383.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="280" r="6" data-z="Партер" data-r="14" data-s="9" data-x="363.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="280" r="6" data-z="Партер" data-r="14" data-s="8" data-x="343.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="280" r="6" data-z="Партер" data-r="14" data-s="7" data-x="323.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="280" r="6" data-z="Партер" data-r="14" data-s="6" data-x="303.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="280" r="6" data-z="Партер" data-r="14" data-s="5" data-x="283.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="280" r="6" data-z="Партер" data-r="14" data-s="4" data-x="263.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="280" r="6" data-z="Партер" data-r="14" data-s="3" data-x="243.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="280" r="6" data-z="Партер" data-r="14" data-s="2" data-x="223.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="38" cy="280" r="6" data-z="Партер" data-r="14" data-s="1" data-x="203.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="898" cy="258" r="6" data-z="Партер" data-r="15" data-s="42" data-x="1063.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="258" r="6" data-z="Партер" data-r="15" data-s="41" data-x="1043.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="258" r="6" data-z="Партер" data-r="15" data-s="40" data-x="1023.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="258" r="6" data-z="Партер" data-r="15" data-s="39" data-x="1003.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="258" r="6" data-z="Партер" data-r="15" data-s="38" data-x="983.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="258" r="6" data-z="Партер" data-r="15" data-s="37" data-x="963.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="258" r="6" data-z="Партер" data-r="15" data-s="36" data-x="943.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="258" r="6" data-z="Партер" data-r="15" data-s="35" data-x="923.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="258" r="6" data-z="Партер" data-r="15" data-s="34" data-x="903.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="258" r="6" data-z="Партер" data-r="15" data-s="33" data-x="883.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="258" r="6" data-z="Партер" data-r="15" data-s="32" data-x="863.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="258" r="6" data-z="Партер" data-r="15" data-s="31" data-x="843.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="258" r="6" data-z="Партер" data-r="15" data-s="30" data-x="823.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="258" r="6" data-z="Партер" data-r="15" data-s="29" data-x="803.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="258" r="6" data-z="Партер" data-r="15" data-s="28" data-x="783.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="258" r="6" data-z="Партер" data-r="15" data-s="27" data-x="763.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="258" r="6" data-z="Партер" data-r="15" data-s="26" data-x="743.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="258" r="6" data-z="Партер" data-r="15" data-s="25" data-x="723.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="258" r="6" data-z="Партер" data-r="15" data-s="24" data-x="703.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="258" r="6" data-z="Партер" data-r="15" data-s="23" data-x="683.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="258" r="6" data-z="Партер" data-r="15" data-s="22" data-x="663.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="258" r="6" data-z="Партер" data-r="15" data-s="21" data-x="603.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="258" r="6" data-z="Партер" data-r="15" data-s="20" data-x="583.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="258" r="6" data-z="Партер" data-r="15" data-s="19" data-x="563.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="258" r="6" data-z="Партер" data-r="15" data-s="18" data-x="543.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="258" r="6" data-z="Партер" data-r="15" data-s="17" data-x="523.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="258" r="6" data-z="Партер" data-r="15" data-s="16" data-x="503.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="258" r="6" data-z="Партер" data-r="15" data-s="15" data-x="483.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="258" r="6" data-z="Партер" data-r="15" data-s="14" data-x="463.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="258" r="6" data-z="Партер" data-r="15" data-s="13" data-x="443.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="258" r="6" data-z="Партер" data-r="15" data-s="12" data-x="423.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="258" r="6" data-z="Партер" data-r="15" data-s="11" data-x="403.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="258" r="6" data-z="Партер" data-r="15" data-s="10" data-x="383.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="258" r="6" data-z="Партер" data-r="15" data-s="9" data-x="363.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="258" r="6" data-z="Партер" data-r="15" data-s="8" data-x="343.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="258" r="6" data-z="Партер" data-r="15" data-s="7" data-x="323.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="258" r="6" data-z="Партер" data-r="15" data-s="6" data-x="303.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="258" r="6" data-z="Партер" data-r="15" data-s="5" data-x="283.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="258" r="6" data-z="Партер" data-r="15" data-s="4" data-x="263.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="258" r="6" data-z="Партер" data-r="15" data-s="3" data-x="243.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="258" r="6" data-z="Партер" data-r="15" data-s="2" data-x="223.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="38" cy="258" r="6" data-z="Партер" data-r="15" data-s="1" data-x="203.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="898" cy="236" r="6" data-z="Партер" data-r="16" data-s="42" data-x="1063.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="236" r="6" data-z="Партер" data-r="16" data-s="41" data-x="1043.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="236" r="6" data-z="Партер" data-r="16" data-s="40" data-x="1023.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="236" r="6" data-z="Партер" data-r="16" data-s="39" data-x="1003.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="236" r="6" data-z="Партер" data-r="16" data-s="38" data-x="983.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="236" r="6" data-z="Партер" data-r="16" data-s="37" data-x="963.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="236" r="6" data-z="Партер" data-r="16" data-s="36" data-x="943.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="236" r="6" data-z="Партер" data-r="16" data-s="35" data-x="923.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="236" r="6" data-z="Партер" data-r="16" data-s="34" data-x="903.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="236" r="6" data-z="Партер" data-r="16" data-s="33" data-x="883.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="236" r="6" data-z="Партер" data-r="16" data-s="32" data-x="863.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="236" r="6" data-z="Партер" data-r="16" data-s="31" data-x="843.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="236" r="6" data-z="Партер" data-r="16" data-s="30" data-x="823.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="236" r="6" data-z="Партер" data-r="16" data-s="29" data-x="803.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="236" r="6" data-z="Партер" data-r="16" data-s="28" data-x="783.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="236" r="6" data-z="Партер" data-r="16" data-s="27" data-x="763.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="236" r="6" data-z="Партер" data-r="16" data-s="26" data-x="743.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="236" r="6" data-z="Партер" data-r="16" data-s="25" data-x="723.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="236" r="6" data-z="Партер" data-r="16" data-s="24" data-x="703.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="236" r="6" data-z="Партер" data-r="16" data-s="23" data-x="683.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="236" r="6" data-z="Партер" data-r="16" data-s="22" data-x="663.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="236" r="6" data-z="Партер" data-r="16" data-s="21" data-x="603.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="236" r="6" data-z="Партер" data-r="16" data-s="20" data-x="583.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="236" r="6" data-z="Партер" data-r="16" data-s="19" data-x="563.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="236" r="6" data-z="Партер" data-r="16" data-s="18" data-x="543.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="236" r="6" data-z="Партер" data-r="16" data-s="17" data-x="523.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="236" r="6" data-z="Партер" data-r="16" data-s="16" data-x="503.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="236" r="6" data-z="Партер" data-r="16" data-s="15" data-x="483.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="236" r="6" data-z="Партер" data-r="16" data-s="14" data-x="463.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="236" r="6" data-z="Партер" data-r="16" data-s="13" data-x="443.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="236" r="6" data-z="Партер" data-r="16" data-s="12" data-x="423.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="236" r="6" data-z="Партер" data-r="16" data-s="11" data-x="403.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="236" r="6" data-z="Партер" data-r="16" data-s="10" data-x="383.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="236" r="6" data-z="Партер" data-r="16" data-s="9" data-x="363.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="236" r="6" data-z="Партер" data-r="16" data-s="8" data-x="343.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="236" r="6" data-z="Партер" data-r="16" data-s="7" data-x="323.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="236" r="6" data-z="Партер" data-r="16" data-s="6" data-x="303.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="236" r="6" data-z="Партер" data-r="16" data-s="5" data-x="283.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="236" r="6" data-z="Партер" data-r="16" data-s="4" data-x="263.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="236" r="6" data-z="Партер" data-r="16" data-s="3" data-x="243.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="236" r="6" data-z="Партер" data-r="16" data-s="2" data-x="223.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="38" cy="236" r="6" data-z="Партер" data-r="16" data-s="1" data-x="203.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="898" cy="214" r="6" data-z="Партер" data-r="17" data-s="42" data-x="1063.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="214" r="6" data-z="Партер" data-r="17" data-s="41" data-x="1043.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="214" r="6" data-z="Партер" data-r="17" data-s="40" data-x="1023.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="214" r="6" data-z="Партер" data-r="17" data-s="39" data-x="1003.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="214" r="6" data-z="Партер" data-r="17" data-s="38" data-x="983.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="214" r="6" data-z="Партер" data-r="17" data-s="37" data-x="963.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="214" r="6" data-z="Партер" data-r="17" data-s="36" data-x="943.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="214" r="6" data-z="Партер" data-r="17" data-s="35" data-x="923.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="214" r="6" data-z="Партер" data-r="17" data-s="34" data-x="903.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="214" r="6" data-z="Партер" data-r="17" data-s="33" data-x="883.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="214" r="6" data-z="Партер" data-r="17" data-s="32" data-x="863.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="214" r="6" data-z="Партер" data-r="17" data-s="31" data-x="843.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="214" r="6" data-z="Партер" data-r="17" data-s="30" data-x="823.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="214" r="6" data-z="Партер" data-r="17" data-s="29" data-x="803.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="214" r="6" data-z="Партер" data-r="17" data-s="28" data-x="783.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="214" r="6" data-z="Партер" data-r="17" data-s="27" data-x="763.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="214" r="6" data-z="Партер" data-r="17" data-s="26" data-x="743.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="214" r="6" data-z="Партер" data-r="17" data-s="25" data-x="723.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="214" r="6" data-z="Партер" data-r="17" data-s="24" data-x="703.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="214" r="6" data-z="Партер" data-r="17" data-s="23" data-x="683.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="214" r="6" data-z="Партер" data-r="17" data-s="22" data-x="663.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="214" r="6" data-z="Партер" data-r="17" data-s="21" data-x="603.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="214" r="6" data-z="Партер" data-r="17" data-s="20" data-x="583.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="214" r="6" data-z="Партер" data-r="17" data-s="19" data-x="563.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="214" r="6" data-z="Партер" data-r="17" data-s="18" data-x="543.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="214" r="6" data-z="Партер" data-r="17" data-s="17" data-x="523.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="214" r="6" data-z="Партер" data-r="17" data-s="16" data-x="503.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="214" r="6" data-z="Партер" data-r="17" data-s="15" data-x="483.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="214" r="6" data-z="Партер" data-r="17" data-s="14" data-x="463.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="214" r="6" data-z="Партер" data-r="17" data-s="13" data-x="443.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="214" r="6" data-z="Партер" data-r="17" data-s="12" data-x="423.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="214" r="6" data-z="Партер" data-r="17" data-s="11" data-x="403.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="214" r="6" data-z="Партер" data-r="17" data-s="10" data-x="383.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="214" r="6" data-z="Партер" data-r="17" data-s="9" data-x="363.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="214" r="6" data-z="Партер" data-r="17" data-s="8" data-x="343.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="214" r="6" data-z="Партер" data-r="17" data-s="7" data-x="323.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="214" r="6" data-z="Партер" data-r="17" data-s="6" data-x="303.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="214" r="6" data-z="Партер" data-r="17" data-s="5" data-x="283.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="214" r="6" data-z="Партер" data-r="17" data-s="4" data-x="263.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="214" r="6" data-z="Партер" data-r="17" data-s="3" data-x="243.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="214" r="6" data-z="Партер" data-r="17" data-s="2" data-x="223.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="38" cy="214" r="6" data-z="Партер" data-r="17" data-s="1" data-x="203.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="898" cy="192" r="6" data-z="Партер" data-r="18" data-s="42" data-x="1063.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="192" r="6" data-z="Партер" data-r="18" data-s="41" data-x="1043.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="192" r="6" data-z="Партер" data-r="18" data-s="40" data-x="1023.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="192" r="6" data-z="Партер" data-r="18" data-s="39" data-x="1003.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="192" r="6" data-z="Партер" data-r="18" data-s="38" data-x="983.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="192" r="6" data-z="Партер" data-r="18" data-s="37" data-x="963.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="192" r="6" data-z="Партер" data-r="18" data-s="36" data-x="943.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="192" r="6" data-z="Партер" data-r="18" data-s="35" data-x="923.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="192" r="6" data-z="Партер" data-r="18" data-s="34" data-x="903.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="192" r="6" data-z="Партер" data-r="18" data-s="33" data-x="883.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="192" r="6" data-z="Партер" data-r="18" data-s="32" data-x="863.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="192" r="6" data-z="Партер" data-r="18" data-s="31" data-x="843.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="192" r="6" data-z="Партер" data-r="18" data-s="30" data-x="823.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="192" r="6" data-z="Партер" data-r="18" data-s="29" data-x="803.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="192" r="6" data-z="Партер" data-r="18" data-s="28" data-x="783.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="192" r="6" data-z="Партер" data-r="18" data-s="27" data-x="763.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="192" r="6" data-z="Партер" data-r="18" data-s="26" data-x="743.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="192" r="6" data-z="Партер" data-r="18" data-s="25" data-x="723.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="192" r="6" data-z="Партер" data-r="18" data-s="24" data-x="703.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="192" r="6" data-z="Партер" data-r="18" data-s="23" data-x="683.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="192" r="6" data-z="Партер" data-r="18" data-s="22" data-x="663.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="192" r="6" data-z="Партер" data-r="18" data-s="21" data-x="603.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="192" r="6" data-z="Партер" data-r="18" data-s="20" data-x="583.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="192" r="6" data-z="Партер" data-r="18" data-s="19" data-x="563.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="192" r="6" data-z="Партер" data-r="18" data-s="18" data-x="543.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="192" r="6" data-z="Партер" data-r="18" data-s="17" data-x="523.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="192" r="6" data-z="Партер" data-r="18" data-s="16" data-x="503.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="192" r="6" data-z="Партер" data-r="18" data-s="15" data-x="483.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="192" r="6" data-z="Партер" data-r="18" data-s="14" data-x="463.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="192" r="6" data-z="Партер" data-r="18" data-s="13" data-x="443.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="192" r="6" data-z="Партер" data-r="18" data-s="12" data-x="423.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="192" r="6" data-z="Партер" data-r="18" data-s="11" data-x="403.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="192" r="6" data-z="Партер" data-r="18" data-s="10" data-x="383.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="192" r="6" data-z="Партер" data-r="18" data-s="9" data-x="363.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="192" r="6" data-z="Партер" data-r="18" data-s="8" data-x="343.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="192" r="6" data-z="Партер" data-r="18" data-s="7" data-x="323.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="192" r="6" data-z="Партер" data-r="18" data-s="6" data-x="303.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="192" r="6" data-z="Партер" data-r="18" data-s="5" data-x="283.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="192" r="6" data-z="Партер" data-r="18" data-s="4" data-x="263.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="192" r="6" data-z="Партер" data-r="18" data-s="3" data-x="243.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="192" r="6" data-z="Партер" data-r="18" data-s="2" data-x="223.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="38" cy="192" r="6" data-z="Партер" data-r="18" data-s="1" data-x="203.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="898" cy="170" r="6" data-z="Партер" data-r="19" data-s="42" data-x="1063.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="170" r="6" data-z="Партер" data-r="19" data-s="41" data-x="1043.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="170" r="6" data-z="Партер" data-r="19" data-s="40" data-x="1023.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="170" r="6" data-z="Партер" data-r="19" data-s="39" data-x="1003.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="170" r="6" data-z="Партер" data-r="19" data-s="38" data-x="983.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="170" r="6" data-z="Партер" data-r="19" data-s="37" data-x="963.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="170" r="6" data-z="Партер" data-r="19" data-s="36" data-x="943.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="170" r="6" data-z="Партер" data-r="19" data-s="35" data-x="923.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="170" r="6" data-z="Партер" data-r="19" data-s="34" data-x="903.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="170" r="6" data-z="Партер" data-r="19" data-s="33" data-x="883.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="170" r="6" data-z="Партер" data-r="19" data-s="32" data-x="863.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="170" r="6" data-z="Партер" data-r="19" data-s="31" data-x="843.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="170" r="6" data-z="Партер" data-r="19" data-s="30" data-x="823.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="170" r="6" data-z="Партер" data-r="19" data-s="29" data-x="803.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="170" r="6" data-z="Партер" data-r="19" data-s="28" data-x="783.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="170" r="6" data-z="Партер" data-r="19" data-s="27" data-x="763.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="170" r="6" data-z="Партер" data-r="19" data-s="26" data-x="743.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="170" r="6" data-z="Партер" data-r="19" data-s="25" data-x="723.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="170" r="6" data-z="Партер" data-r="19" data-s="24" data-x="703.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="170" r="6" data-z="Партер" data-r="19" data-s="23" data-x="683.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="170" r="6" data-z="Партер" data-r="19" data-s="22" data-x="663.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="170" r="6" data-z="Партер" data-r="19" data-s="21" data-x="603.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="170" r="6" data-z="Партер" data-r="19" data-s="20" data-x="583.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="170" r="6" data-z="Партер" data-r="19" data-s="19" data-x="563.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="170" r="6" data-z="Партер" data-r="19" data-s="18" data-x="543.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="170" r="6" data-z="Партер" data-r="19" data-s="17" data-x="523.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="170" r="6" data-z="Партер" data-r="19" data-s="16" data-x="503.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="170" r="6" data-z="Партер" data-r="19" data-s="15" data-x="483.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="170" r="6" data-z="Партер" data-r="19" data-s="14" data-x="463.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="170" r="6" data-z="Партер" data-r="19" data-s="13" data-x="443.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="170" r="6" data-z="Партер" data-r="19" data-s="12" data-x="423.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="170" r="6" data-z="Партер" data-r="19" data-s="11" data-x="403.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="170" r="6" data-z="Партер" data-r="19" data-s="10" data-x="383.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="170" r="6" data-z="Партер" data-r="19" data-s="9" data-x="363.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="170" r="6" data-z="Партер" data-r="19" data-s="8" data-x="343.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="170" r="6" data-z="Партер" data-r="19" data-s="7" data-x="323.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="170" r="6" data-z="Партер" data-r="19" data-s="6" data-x="303.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="170" r="6" data-z="Партер" data-r="19" data-s="5" data-x="283.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="170" r="6" data-z="Партер" data-r="19" data-s="4" data-x="263.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="170" r="6" data-z="Партер" data-r="19" data-s="3" data-x="243.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="170" r="6" data-z="Партер" data-r="19" data-s="2" data-x="223.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="38" cy="170" r="6" data-z="Партер" data-r="19" data-s="1" data-x="203.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="898" cy="148" r="6" data-z="Партер" data-r="20" data-s="42" data-x="1063.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="148" r="6" data-z="Партер" data-r="20" data-s="41" data-x="1043.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="148" r="6" data-z="Партер" data-r="20" data-s="40" data-x="1023.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="148" r="6" data-z="Партер" data-r="20" data-s="39" data-x="1003.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="148" r="6" data-z="Партер" data-r="20" data-s="38" data-x="983.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="148" r="6" data-z="Партер" data-r="20" data-s="37" data-x="963.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="148" r="6" data-z="Партер" data-r="20" data-s="36" data-x="943.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="148" r="6" data-z="Партер" data-r="20" data-s="35" data-x="923.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="148" r="6" data-z="Партер" data-r="20" data-s="34" data-x="903.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="148" r="6" data-z="Партер" data-r="20" data-s="33" data-x="883.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="148" r="6" data-z="Партер" data-r="20" data-s="32" data-x="863.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="148" r="6" data-z="Партер" data-r="20" data-s="31" data-x="843.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="148" r="6" data-z="Партер" data-r="20" data-s="30" data-x="823.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="148" r="6" data-z="Партер" data-r="20" data-s="29" data-x="803.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="148" r="6" data-z="Партер" data-r="20" data-s="28" data-x="783.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="148" r="6" data-z="Партер" data-r="20" data-s="27" data-x="763.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="148" r="6" data-z="Партер" data-r="20" data-s="26" data-x="743.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="148" r="6" data-z="Партер" data-r="20" data-s="25" data-x="723.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="148" r="6" data-z="Партер" data-r="20" data-s="24" data-x="703.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="148" r="6" data-z="Партер" data-r="20" data-s="23" data-x="683.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="148" r="6" data-z="Партер" data-r="20" data-s="22" data-x="663.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="148" r="6" data-z="Партер" data-r="20" data-s="21" data-x="603.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="148" r="6" data-z="Партер" data-r="20" data-s="20" data-x="583.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="148" r="6" data-z="Партер" data-r="20" data-s="19" data-x="563.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="148" r="6" data-z="Партер" data-r="20" data-s="18" data-x="543.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="148" r="6" data-z="Партер" data-r="20" data-s="17" data-x="523.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="148" r="6" data-z="Партер" data-r="20" data-s="16" data-x="503.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="148" r="6" data-z="Партер" data-r="20" data-s="15" data-x="483.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="148" r="6" data-z="Партер" data-r="20" data-s="14" data-x="463.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="148" r="6" data-z="Партер" data-r="20" data-s="13" data-x="443.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="148" r="6" data-z="Партер" data-r="20" data-s="12" data-x="423.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="148" r="6" data-z="Партер" data-r="20" data-s="11" data-x="403.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="148" r="6" data-z="Партер" data-r="20" data-s="10" data-x="383.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="148" r="6" data-z="Партер" data-r="20" data-s="9" data-x="363.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="148" r="6" data-z="Партер" data-r="20" data-s="8" data-x="343.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="148" r="6" data-z="Партер" data-r="20" data-s="7" data-x="323.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="148" r="6" data-z="Партер" data-r="20" data-s="6" data-x="303.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="148" r="6" data-z="Партер" data-r="20" data-s="5" data-x="283.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="148" r="6" data-z="Партер" data-r="20" data-s="4" data-x="263.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="148" r="6" data-z="Партер" data-r="20" data-s="3" data-x="243.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="148" r="6" data-z="Партер" data-r="20" data-s="2" data-x="223.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="38" cy="148" r="6" data-z="Партер" data-r="20" data-s="1" data-x="203.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="898" cy="126" r="6" data-z="Партер" data-r="21" data-s="42" data-x="1063.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="126" r="6" data-z="Партер" data-r="21" data-s="41" data-x="1043.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="126" r="6" data-z="Партер" data-r="21" data-s="40" data-x="1023.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="126" r="6" data-z="Партер" data-r="21" data-s="39" data-x="1003.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="126" r="6" data-z="Партер" data-r="21" data-s="38" data-x="983.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="126" r="6" data-z="Партер" data-r="21" data-s="37" data-x="963.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="126" r="6" data-z="Партер" data-r="21" data-s="36" data-x="943.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="126" r="6" data-z="Партер" data-r="21" data-s="35" data-x="923.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="126" r="6" data-z="Партер" data-r="21" data-s="34" data-x="903.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="126" r="6" data-z="Партер" data-r="21" data-s="33" data-x="883.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="126" r="6" data-z="Партер" data-r="21" data-s="32" data-x="863.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="126" r="6" data-z="Партер" data-r="21" data-s="31" data-x="843.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="126" r="6" data-z="Партер" data-r="21" data-s="30" data-x="823.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="126" r="6" data-z="Партер" data-r="21" data-s="29" data-x="803.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="126" r="6" data-z="Партер" data-r="21" data-s="28" data-x="783.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="126" r="6" data-z="Партер" data-r="21" data-s="27" data-x="763.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="126" r="6" data-z="Партер" data-r="21" data-s="26" data-x="743.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="126" r="6" data-z="Партер" data-r="21" data-s="25" data-x="723.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="126" r="6" data-z="Партер" data-r="21" data-s="24" data-x="703.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="126" r="6" data-z="Партер" data-r="21" data-s="23" data-x="683.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="126" r="6" data-z="Партер" data-r="21" data-s="22" data-x="663.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="126" r="6" data-z="Партер" data-r="21" data-s="21" data-x="603.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="126" r="6" data-z="Партер" data-r="21" data-s="20" data-x="583.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="126" r="6" data-z="Партер" data-r="21" data-s="19" data-x="563.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="126" r="6" data-z="Партер" data-r="21" data-s="18" data-x="543.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="126" r="6" data-z="Партер" data-r="21" data-s="17" data-x="523.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="126" r="6" data-z="Партер" data-r="21" data-s="16" data-x="503.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="126" r="6" data-z="Партер" data-r="21" data-s="15" data-x="483.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="126" r="6" data-z="Партер" data-r="21" data-s="14" data-x="463.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="126" r="6" data-z="Партер" data-r="21" data-s="13" data-x="443.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="126" r="6" data-z="Партер" data-r="21" data-s="12" data-x="423.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="126" r="6" data-z="Партер" data-r="21" data-s="11" data-x="403.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="126" r="6" data-z="Партер" data-r="21" data-s="10" data-x="383.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="126" r="6" data-z="Партер" data-r="21" data-s="9" data-x="363.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="126" r="6" data-z="Партер" data-r="21" data-s="8" data-x="343.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="126" r="6" data-z="Партер" data-r="21" data-s="7" data-x="323.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="126" r="6" data-z="Партер" data-r="21" data-s="6" data-x="303.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="126" r="6" data-z="Партер" data-r="21" data-s="5" data-x="283.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="126" r="6" data-z="Партер" data-r="21" data-s="4" data-x="263.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="126" r="6" data-z="Партер" data-r="21" data-s="3" data-x="243.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="126" r="6" data-z="Партер" data-r="21" data-s="2" data-x="223.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="38" cy="126" r="6" data-z="Партер" data-r="21" data-s="1" data-x="203.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="898" cy="104" r="6" data-z="Партер" data-r="22" data-s="42" data-x="1063.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="104" r="6" data-z="Партер" data-r="22" data-s="41" data-x="1043.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="104" r="6" data-z="Партер" data-r="22" data-s="40" data-x="1023.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="104" r="6" data-z="Партер" data-r="22" data-s="39" data-x="1003.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="104" r="6" data-z="Партер" data-r="22" data-s="38" data-x="983.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="104" r="6" data-z="Партер" data-r="22" data-s="37" data-x="963.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="104" r="6" data-z="Партер" data-r="22" data-s="36" data-x="943.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="104" r="6" data-z="Партер" data-r="22" data-s="35" data-x="923.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="104" r="6" data-z="Партер" data-r="22" data-s="34" data-x="903.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="104" r="6" data-z="Партер" data-r="22" data-s="33" data-x="883.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="104" r="6" data-z="Партер" data-r="22" data-s="32" data-x="863.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="104" r="6" data-z="Партер" data-r="22" data-s="31" data-x="843.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="104" r="6" data-z="Партер" data-r="22" data-s="30" data-x="823.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="104" r="6" data-z="Партер" data-r="22" data-s="29" data-x="803.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="104" r="6" data-z="Партер" data-r="22" data-s="28" data-x="783.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="104" r="6" data-z="Партер" data-r="22" data-s="27" data-x="763.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="104" r="6" data-z="Партер" data-r="22" data-s="26" data-x="743.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="104" r="6" data-z="Партер" data-r="22" data-s="25" data-x="723.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="104" r="6" data-z="Партер" data-r="22" data-s="24" data-x="703.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="104" r="6" data-z="Партер" data-r="22" data-s="23" data-x="683.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="104" r="6" data-z="Партер" data-r="22" data-s="22" data-x="663.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="104" r="6" data-z="Партер" data-r="22" data-s="21" data-x="603.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="104" r="6" data-z="Партер" data-r="22" data-s="20" data-x="583.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="104" r="6" data-z="Партер" data-r="22" data-s="19" data-x="563.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="104" r="6" data-z="Партер" data-r="22" data-s="18" data-x="543.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="104" r="6" data-z="Партер" data-r="22" data-s="17" data-x="523.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="104" r="6" data-z="Партер" data-r="22" data-s="16" data-x="503.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="104" r="6" data-z="Партер" data-r="22" data-s="15" data-x="483.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="104" r="6" data-z="Партер" data-r="22" data-s="14" data-x="463.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="104" r="6" data-z="Партер" data-r="22" data-s="13" data-x="443.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="104" r="6" data-z="Партер" data-r="22" data-s="12" data-x="423.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="104" r="6" data-z="Партер" data-r="22" data-s="11" data-x="403.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="104" r="6" data-z="Партер" data-r="22" data-s="10" data-x="383.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="104" r="6" data-z="Партер" data-r="22" data-s="9" data-x="363.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="104" r="6" data-z="Партер" data-r="22" data-s="8" data-x="343.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="104" r="6" data-z="Партер" data-r="22" data-s="7" data-x="323.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="104" r="6" data-z="Партер" data-r="22" data-s="6" data-x="303.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="104" r="6" data-z="Партер" data-r="22" data-s="5" data-x="283.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="104" r="6" data-z="Партер" data-r="22" data-s="4" data-x="263.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="104" r="6" data-z="Партер" data-r="22" data-s="3" data-x="243.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="104" r="6" data-z="Партер" data-r="22" data-s="2" data-x="223.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="38" cy="104" r="6" data-z="Партер" data-r="22" data-s="1" data-x="203.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="898" cy="82" r="6" data-z="Партер" data-r="23" data-s="42" data-x="1063.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="82" r="6" data-z="Партер" data-r="23" data-s="41" data-x="1043.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="82" r="6" data-z="Партер" data-r="23" data-s="40" data-x="1023.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="82" r="6" data-z="Партер" data-r="23" data-s="39" data-x="1003.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="82" r="6" data-z="Партер" data-r="23" data-s="38" data-x="983.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="82" r="6" data-z="Партер" data-r="23" data-s="37" data-x="963.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="82" r="6" data-z="Партер" data-r="23" data-s="36" data-x="943.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="82" r="6" data-z="Партер" data-r="23" data-s="35" data-x="923.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="82" r="6" data-z="Партер" data-r="23" data-s="34" data-x="903.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="82" r="6" data-z="Партер" data-r="23" data-s="33" data-x="883.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="82" r="6" data-z="Партер" data-r="23" data-s="32" data-x="863.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="82" r="6" data-z="Партер" data-r="23" data-s="31" data-x="843.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="82" r="6" data-z="Партер" data-r="23" data-s="30" data-x="823.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="82" r="6" data-z="Партер" data-r="23" data-s="29" data-x="803.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="82" r="6" data-z="Партер" data-r="23" data-s="28" data-x="783.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="82" r="6" data-z="Партер" data-r="23" data-s="27" data-x="763.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="82" r="6" data-z="Партер" data-r="23" data-s="26" data-x="743.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="82" r="6" data-z="Партер" data-r="23" data-s="25" data-x="723.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="82" r="6" data-z="Партер" data-r="23" data-s="24" data-x="703.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="82" r="6" data-z="Партер" data-r="23" data-s="23" data-x="683.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="82" r="6" data-z="Партер" data-r="23" data-s="22" data-x="663.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="82" r="6" data-z="Партер" data-r="23" data-s="21" data-x="603.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="82" r="6" data-z="Партер" data-r="23" data-s="20" data-x="583.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="82" r="6" data-z="Партер" data-r="23" data-s="19" data-x="563.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="82" r="6" data-z="Партер" data-r="23" data-s="18" data-x="543.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="82" r="6" data-z="Партер" data-r="23" data-s="17" data-x="523.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="82" r="6" data-z="Партер" data-r="23" data-s="16" data-x="503.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="82" r="6" data-z="Партер" data-r="23" data-s="15" data-x="483.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="82" r="6" data-z="Партер" data-r="23" data-s="14" data-x="463.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="82" r="6" data-z="Партер" data-r="23" data-s="13" data-x="443.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="82" r="6" data-z="Партер" data-r="23" data-s="12" data-x="423.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="82" r="6" data-z="Партер" data-r="23" data-s="11" data-x="403.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="82" r="6" data-z="Партер" data-r="23" data-s="10" data-x="383.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="82" r="6" data-z="Партер" data-r="23" data-s="9" data-x="363.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="82" r="6" data-z="Партер" data-r="23" data-s="8" data-x="343.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="82" r="6" data-z="Партер" data-r="23" data-s="7" data-x="323.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="82" r="6" data-z="Партер" data-r="23" data-s="6" data-x="303.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="82" r="6" data-z="Партер" data-r="23" data-s="5" data-x="283.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="82" r="6" data-z="Партер" data-r="23" data-s="4" data-x="263.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="82" r="6" data-z="Партер" data-r="23" data-s="3" data-x="243.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="82" r="6" data-z="Партер" data-r="23" data-s="2" data-x="223.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="38" cy="82" r="6" data-z="Партер" data-r="23" data-s="1" data-x="203.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="898" cy="60" r="6" data-z="Партер" data-r="24" data-s="42" data-x="1063.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="60" r="6" data-z="Партер" data-r="24" data-s="41" data-x="1043.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="60" r="6" data-z="Партер" data-r="24" data-s="40" data-x="1023.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="60" r="6" data-z="Партер" data-r="24" data-s="39" data-x="1003.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="60" r="6" data-z="Партер" data-r="24" data-s="38" data-x="983.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="60" r="6" data-z="Партер" data-r="24" data-s="37" data-x="963.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="60" r="6" data-z="Партер" data-r="24" data-s="36" data-x="943.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="60" r="6" data-z="Партер" data-r="24" data-s="35" data-x="923.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="60" r="6" data-z="Партер" data-r="24" data-s="34" data-x="903.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="60" r="6" data-z="Партер" data-r="24" data-s="33" data-x="883.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="60" r="6" data-z="Партер" data-r="24" data-s="32" data-x="863.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="60" r="6" data-z="Партер" data-r="24" data-s="31" data-x="843.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="60" r="6" data-z="Партер" data-r="24" data-s="30" data-x="823.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="60" r="6" data-z="Партер" data-r="24" data-s="29" data-x="803.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="60" r="6" data-z="Партер" data-r="24" data-s="28" data-x="783.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="60" r="6" data-z="Партер" data-r="24" data-s="27" data-x="763.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="60" r="6" data-z="Партер" data-r="24" data-s="26" data-x="743.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="60" r="6" data-z="Партер" data-r="24" data-s="25" data-x="723.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="60" r="6" data-z="Партер" data-r="24" data-s="24" data-x="703.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="60" r="6" data-z="Партер" data-r="24" data-s="23" data-x="683.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="60" r="6" data-z="Партер" data-r="24" data-s="22" data-x="663.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="60" r="6" data-z="Партер" data-r="24" data-s="21" data-x="603.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="60" r="6" data-z="Партер" data-r="24" data-s="20" data-x="583.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="60" r="6" data-z="Партер" data-r="24" data-s="19" data-x="563.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="60" r="6" data-z="Партер" data-r="24" data-s="18" data-x="543.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="60" r="6" data-z="Партер" data-r="24" data-s="17" data-x="523.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="60" r="6" data-z="Партер" data-r="24" data-s="16" data-x="503.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="60" r="6" data-z="Партер" data-r="24" data-s="15" data-x="483.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="60" r="6" data-z="Партер" data-r="24" data-s="14" data-x="463.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="60" r="6" data-z="Партер" data-r="24" data-s="13" data-x="443.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="60" r="6" data-z="Партер" data-r="24" data-s="12" data-x="423.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="60" r="6" data-z="Партер" data-r="24" data-s="11" data-x="403.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="60" r="6" data-z="Партер" data-r="24" data-s="10" data-x="383.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="60" r="6" data-z="Партер" data-r="24" data-s="9" data-x="363.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="60" r="6" data-z="Партер" data-r="24" data-s="8" data-x="343.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="60" r="6" data-z="Партер" data-r="24" data-s="7" data-x="323.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="60" r="6" data-z="Партер" data-r="24" data-s="6" data-x="303.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="60" r="6" data-z="Партер" data-r="24" data-s="5" data-x="283.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="60" r="6" data-z="Партер" data-r="24" data-s="4" data-x="263.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="60" r="6" data-z="Партер" data-r="24" data-s="3" data-x="243.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="60" r="6" data-z="Партер" data-r="24" data-s="2" data-x="223.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="38" cy="60" r="6" data-z="Партер" data-r="24" data-s="1" data-x="203.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="38" r="6" data-z="Партер" data-r="25" data-s="36" data-x="1023.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="38" r="6" data-z="Партер" data-r="25" data-s="35" data-x="1003.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="38" r="6" data-z="Партер" data-r="25" data-s="34" data-x="983.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="38" r="6" data-z="Партер" data-r="25" data-s="33" data-x="963.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="38" r="6" data-z="Партер" data-r="25" data-s="32" data-x="943.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="38" r="6" data-z="Партер" data-r="25" data-s="31" data-x="923.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="38" r="6" data-z="Партер" data-r="25" data-s="30" data-x="903.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="38" r="6" data-z="Партер" data-r="25" data-s="29" data-x="883.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="38" r="6" data-z="Партер" data-r="25" data-s="28" data-x="863.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="38" r="6" data-z="Партер" data-r="25" data-s="27" data-x="843.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="658" cy="38" r="6" data-z="Партер" data-r="25" data-s="26" data-x="823.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="638" cy="38" r="6" data-z="Партер" data-r="25" data-s="25" data-x="803.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="38" r="6" data-z="Партер" data-r="25" data-s="24" data-x="743.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="38" r="6" data-z="Партер" data-r="25" data-s="23" data-x="723.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="38" r="6" data-z="Партер" data-r="25" data-s="22" data-x="703.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="38" r="6" data-z="Партер" data-r="25" data-s="21" data-x="683.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="38" r="6" data-z="Партер" data-r="25" data-s="20" data-x="663.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="478" cy="38" r="6" data-z="Партер" data-r="25" data-s="19" data-x="643.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="458" cy="38" r="6" data-z="Партер" data-r="25" data-s="18" data-x="623.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="38" r="6" data-z="Партер" data-r="25" data-s="17" data-x="603.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="38" r="6" data-z="Партер" data-r="25" data-s="16" data-x="583.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="38" r="6" data-z="Партер" data-r="25" data-s="15" data-x="563.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="38" r="6" data-z="Партер" data-r="25" data-s="14" data-x="543.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="38" r="6" data-z="Партер" data-r="25" data-s="13" data-x="523.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="298" cy="38" r="6" data-z="Партер" data-r="25" data-s="12" data-x="463.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="278" cy="38" r="6" data-z="Партер" data-r="25" data-s="11" data-x="443.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="38" r="6" data-z="Партер" data-r="25" data-s="10" data-x="423.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="38" r="6" data-z="Партер" data-r="25" data-s="9" data-x="403.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="38" r="6" data-z="Партер" data-r="25" data-s="8" data-x="383.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="38" r="6" data-z="Партер" data-r="25" data-s="7" data-x="363.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="38" r="6" data-z="Партер" data-r="25" data-s="6" data-x="343.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="38" r="6" data-z="Партер" data-r="25" data-s="5" data-x="323.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="38" r="6" data-z="Партер" data-r="25" data-s="4" data-x="303.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="38" r="6" data-z="Партер" data-r="25" data-s="3" data-x="283.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="38" r="6" data-z="Партер" data-r="25" data-s="2" data-x="263.0" data-y="293.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="38" r="6" data-z="Партер" data-r="25" data-s="1" data-x="243.0" data-y="293.0" /> 
+    <circle fill="#DDDDDC" cx="78.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="1" data-x="243.0" data-y="623.0" /><circle fill="#DDDDDC" cx="98.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="2" data-x="263.0" data-y="623.0" /><circle fill="#DDDDDC" cx="118.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="3" data-x="283.0" data-y="623.0" /><circle fill="#DDDDDC" cx="138.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="4" data-x="303.0" data-y="623.0" /><circle fill="#DDDDDC" cx="158.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="5" data-x="323.0" data-y="623.0" /><circle fill="#DDDDDC" cx="178.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="6" data-x="343.0" data-y="623.0" /><circle fill="#DDDDDC" cx="198.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="7" data-x="363.0" data-y="623.0" /><circle fill="#DDDDDC" cx="218.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="8" data-x="383.0" data-y="623.0" /><circle fill="#DDDDDC" cx="238.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="9" data-x="403.0" data-y="623.0" /><circle fill="#DDDDDC" cx="258.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="10" data-x="423.0" data-y="623.0" /><circle fill="#DDDDDC" cx="278.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="11" data-x="443.0" data-y="623.0" /><circle fill="#DDDDDC" cx="298.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="12" data-x="463.0" data-y="623.0" /><circle fill="#DDDDDC" cx="318.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="13" data-x="483.0" data-y="623.0" /><circle fill="#DDDDDC" cx="338.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="14" data-x="503.0" data-y="623.0" /><circle fill="#DDDDDC" cx="358.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="15" data-x="523.0" data-y="623.0" /><circle fill="#DDDDDC" cx="378.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="16" data-x="543.0" data-y="623.0" /><circle fill="#DDDDDC" cx="398.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="17" data-x="563.0" data-y="623.0" /><circle fill="#DDDDDC" cx="418.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="18" data-x="583.0" data-y="623.0" /><circle fill="#DDDDDC" cx="438.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="19" data-x="603.0" data-y="623.0" /><circle fill="#DDDDDC" cx="498.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="20" data-x="663.0" data-y="623.0" /><circle fill="#DDDDDC" cx="518.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="21" data-x="683.0" data-y="623.0" /><circle fill="#DDDDDC" cx="538.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="22" data-x="703.0" data-y="623.0" /><circle fill="#DDDDDC" cx="558.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="23" data-x="723.0" data-y="623.0" /><circle fill="#DDDDDC" cx="578.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="24" data-x="743.0" data-y="623.0" /><circle fill="#DDDDDC" cx="598.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="25" data-x="763.0" data-y="623.0" /><circle fill="#DDDDDC" cx="618.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="26" data-x="783.0" data-y="623.0" /><circle fill="#DDDDDC" cx="638.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="27" data-x="803.0" data-y="623.0" /><circle fill="#DDDDDC" cx="658.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="28" data-x="823.0" data-y="623.0" /><circle fill="#DDDDDC" cx="678.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="29" data-x="843.0" data-y="623.0" /><circle fill="#DDDDDC" cx="698.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="30" data-x="863.0" data-y="623.0" /><circle fill="#DDDDDC" cx="718.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="31" data-x="883.0" data-y="623.0" /><circle fill="#DDDDDC" cx="738.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="32" data-x="903.0" data-y="623.0" /><circle fill="#DDDDDC" cx="758.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="33" data-x="923.0" data-y="623.0" /><circle fill="#DDDDDC" cx="778.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="34" data-x="943.0" data-y="623.0" /><circle fill="#DDDDDC" cx="798.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="35" data-x="963.0" data-y="623.0" /><circle fill="#DDDDDC" cx="818.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="36" data-x="983.0" data-y="623.0" /><circle fill="#DDDDDC" cx="838.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="37" data-x="1003.0" data-y="623.0" /><circle fill="#DDDDDC" cx="858.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="38" data-x="1023.0" data-y="623.0" /><circle fill="#DDDDDC" cx="878.00" cy="368" r="6" data-z="Партер" data-r="10" data-s="39" data-x="1043.0" data-y="623.0" /></g>  
+    <g transform="translate(165.000000, 1.000000)"> 
+      <circle fill="#DDDDDC" cx="878" cy="192" r="6" data-z="Балкон" data-r="1" data-s="38" data-x="1043.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="192" r="6" data-z="Балкон" data-r="1" data-s="37" data-x="1023.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="192" r="6" data-z="Балкон" data-r="1" data-s="36" data-x="1003.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="192" r="6" data-z="Балкон" data-r="1" data-s="35" data-x="983.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="192" r="6" data-z="Балкон" data-r="1" data-s="34" data-x="963.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="192" r="6" data-z="Балкон" data-r="1" data-s="33" data-x="943.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="192" r="6" data-z="Балкон" data-r="1" data-s="32" data-x="923.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="192" r="6" data-z="Балкон" data-r="1" data-s="31" data-x="903.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="192" r="6" data-z="Балкон" data-r="1" data-s="30" data-x="883.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="192" r="6" data-z="Балкон" data-r="1" data-s="29" data-x="863.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="192" r="6" data-z="Балкон" data-r="1" data-s="28" data-x="843.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="192" r="6" data-z="Балкон" data-r="1" data-s="27" data-x="783.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="192" r="6" data-z="Балкон" data-r="1" data-s="26" data-x="763.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="192" r="6" data-z="Балкон" data-r="1" data-s="25" data-x="743.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="192" r="6" data-z="Балкон" data-r="1" data-s="24" data-x="723.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="192" r="6" data-z="Балкон" data-r="1" data-s="23" data-x="703.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="192" r="6" data-z="Балкон" data-r="1" data-s="22" data-x="683.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="192" r="6" data-z="Балкон" data-r="1" data-s="21" data-x="663.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="478" cy="192" r="6" data-z="Балкон" data-r="1" data-s="20" data-x="643.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="458" cy="192" r="6" data-z="Балкон" data-r="1" data-s="19" data-x="623.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="192" r="6" data-z="Балкон" data-r="1" data-s="18" data-x="603.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="192" r="6" data-z="Балкон" data-r="1" data-s="17" data-x="583.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="192" r="6" data-z="Балкон" data-r="1" data-s="16" data-x="563.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="192" r="6" data-z="Балкон" data-r="1" data-s="15" data-x="543.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="192" r="6" data-z="Балкон" data-r="1" data-s="14" data-x="523.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="192" r="6" data-z="Балкон" data-r="1" data-s="13" data-x="503.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="192" r="6" data-z="Балкон" data-r="1" data-s="12" data-x="483.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="192" r="6" data-z="Балкон" data-r="1" data-s="11" data-x="423.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="192" r="6" data-z="Балкон" data-r="1" data-s="10" data-x="403.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="192" r="6" data-z="Балкон" data-r="1" data-s="9" data-x="383.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="192" r="6" data-z="Балкон" data-r="1" data-s="8" data-x="363.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="192" r="6" data-z="Балкон" data-r="1" data-s="7" data-x="343.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="192" r="6" data-z="Балкон" data-r="1" data-s="6" data-x="323.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="192" r="6" data-z="Балкон" data-r="1" data-s="5" data-x="303.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="192" r="6" data-z="Балкон" data-r="1" data-s="4" data-x="283.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="192" r="6" data-z="Балкон" data-r="1" data-s="3" data-x="263.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="192" r="6" data-z="Балкон" data-r="1" data-s="2" data-x="243.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="192" r="6" data-z="Балкон" data-r="1" data-s="1" data-x="223.0" data-y="193.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="170" r="6" data-z="Балкон" data-r="2" data-s="38" data-x="1043.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="170" r="6" data-z="Балкон" data-r="2" data-s="37" data-x="1023.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="170" r="6" data-z="Балкон" data-r="2" data-s="36" data-x="1003.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="170" r="6" data-z="Балкон" data-r="2" data-s="35" data-x="983.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="170" r="6" data-z="Балкон" data-r="2" data-s="34" data-x="963.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="170" r="6" data-z="Балкон" data-r="2" data-s="33" data-x="943.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="170" r="6" data-z="Балкон" data-r="2" data-s="32" data-x="923.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="170" r="6" data-z="Балкон" data-r="2" data-s="31" data-x="903.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="170" r="6" data-z="Балкон" data-r="2" data-s="30" data-x="883.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="170" r="6" data-z="Балкон" data-r="2" data-s="29" data-x="863.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="170" r="6" data-z="Балкон" data-r="2" data-s="28" data-x="843.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="170" r="6" data-z="Балкон" data-r="2" data-s="27" data-x="783.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="170" r="6" data-z="Балкон" data-r="2" data-s="26" data-x="763.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="170" r="6" data-z="Балкон" data-r="2" data-s="25" data-x="743.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="170" r="6" data-z="Балкон" data-r="2" data-s="24" data-x="723.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="170" r="6" data-z="Балкон" data-r="2" data-s="23" data-x="703.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="170" r="6" data-z="Балкон" data-r="2" data-s="22" data-x="683.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="170" r="6" data-z="Балкон" data-r="2" data-s="21" data-x="663.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="478" cy="170" r="6" data-z="Балкон" data-r="2" data-s="20" data-x="643.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="458" cy="170" r="6" data-z="Балкон" data-r="2" data-s="19" data-x="623.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="170" r="6" data-z="Балкон" data-r="2" data-s="18" data-x="603.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="170" r="6" data-z="Балкон" data-r="2" data-s="17" data-x="583.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="170" r="6" data-z="Балкон" data-r="2" data-s="16" data-x="563.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="170" r="6" data-z="Балкон" data-r="2" data-s="15" data-x="543.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="170" r="6" data-z="Балкон" data-r="2" data-s="14" data-x="523.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="170" r="6" data-z="Балкон" data-r="2" data-s="13" data-x="503.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="170" r="6" data-z="Балкон" data-r="2" data-s="12" data-x="483.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="170" r="6" data-z="Балкон" data-r="2" data-s="11" data-x="423.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="170" r="6" data-z="Балкон" data-r="2" data-s="10" data-x="403.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="170" r="6" data-z="Балкон" data-r="2" data-s="9" data-x="383.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="170" r="6" data-z="Балкон" data-r="2" data-s="8" data-x="363.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="170" r="6" data-z="Балкон" data-r="2" data-s="7" data-x="343.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="170" r="6" data-z="Балкон" data-r="2" data-s="6" data-x="323.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="170" r="6" data-z="Балкон" data-r="2" data-s="5" data-x="303.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="170" r="6" data-z="Балкон" data-r="2" data-s="4" data-x="283.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="170" r="6" data-z="Балкон" data-r="2" data-s="3" data-x="263.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="170" r="6" data-z="Балкон" data-r="2" data-s="2" data-x="243.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="170" r="6" data-z="Балкон" data-r="2" data-s="1" data-x="223.0" data-y="171.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="148" r="6" data-z="Балкон" data-r="3" data-s="38" data-x="1043.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="148" r="6" data-z="Балкон" data-r="3" data-s="37" data-x="1023.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="148" r="6" data-z="Балкон" data-r="3" data-s="36" data-x="1003.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="148" r="6" data-z="Балкон" data-r="3" data-s="35" data-x="983.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="148" r="6" data-z="Балкон" data-r="3" data-s="34" data-x="963.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="148" r="6" data-z="Балкон" data-r="3" data-s="33" data-x="943.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="148" r="6" data-z="Балкон" data-r="3" data-s="32" data-x="923.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="148" r="6" data-z="Балкон" data-r="3" data-s="31" data-x="903.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="148" r="6" data-z="Балкон" data-r="3" data-s="30" data-x="883.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="148" r="6" data-z="Балкон" data-r="3" data-s="29" data-x="863.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="148" r="6" data-z="Балкон" data-r="3" data-s="28" data-x="843.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="148" r="6" data-z="Балкон" data-r="3" data-s="27" data-x="783.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="148" r="6" data-z="Балкон" data-r="3" data-s="26" data-x="763.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="148" r="6" data-z="Балкон" data-r="3" data-s="25" data-x="743.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="148" r="6" data-z="Балкон" data-r="3" data-s="24" data-x="723.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="148" r="6" data-z="Балкон" data-r="3" data-s="23" data-x="703.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="148" r="6" data-z="Балкон" data-r="3" data-s="22" data-x="683.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="148" r="6" data-z="Балкон" data-r="3" data-s="21" data-x="663.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="478" cy="148" r="6" data-z="Балкон" data-r="3" data-s="20" data-x="643.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="458" cy="148" r="6" data-z="Балкон" data-r="3" data-s="19" data-x="623.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="148" r="6" data-z="Балкон" data-r="3" data-s="18" data-x="603.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="148" r="6" data-z="Балкон" data-r="3" data-s="17" data-x="583.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="148" r="6" data-z="Балкон" data-r="3" data-s="16" data-x="563.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="148" r="6" data-z="Балкон" data-r="3" data-s="15" data-x="543.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="148" r="6" data-z="Балкон" data-r="3" data-s="14" data-x="523.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="148" r="6" data-z="Балкон" data-r="3" data-s="13" data-x="503.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="148" r="6" data-z="Балкон" data-r="3" data-s="12" data-x="483.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="148" r="6" data-z="Балкон" data-r="3" data-s="11" data-x="423.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="148" r="6" data-z="Балкон" data-r="3" data-s="10" data-x="403.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="148" r="6" data-z="Балкон" data-r="3" data-s="9" data-x="383.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="148" r="6" data-z="Балкон" data-r="3" data-s="8" data-x="363.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="148" r="6" data-z="Балкон" data-r="3" data-s="7" data-x="343.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="148" r="6" data-z="Балкон" data-r="3" data-s="6" data-x="323.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="148" r="6" data-z="Балкон" data-r="3" data-s="5" data-x="303.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="148" r="6" data-z="Балкон" data-r="3" data-s="4" data-x="283.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="148" r="6" data-z="Балкон" data-r="3" data-s="3" data-x="263.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="148" r="6" data-z="Балкон" data-r="3" data-s="2" data-x="243.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="148" r="6" data-z="Балкон" data-r="3" data-s="1" data-x="223.0" data-y="149.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="126" r="6" data-z="Балкон" data-r="4" data-s="38" data-x="1043.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="126" r="6" data-z="Балкон" data-r="4" data-s="37" data-x="1023.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="126" r="6" data-z="Балкон" data-r="4" data-s="36" data-x="1003.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="126" r="6" data-z="Балкон" data-r="4" data-s="35" data-x="983.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="126" r="6" data-z="Балкон" data-r="4" data-s="34" data-x="963.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="126" r="6" data-z="Балкон" data-r="4" data-s="33" data-x="943.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="126" r="6" data-z="Балкон" data-r="4" data-s="32" data-x="923.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="126" r="6" data-z="Балкон" data-r="4" data-s="31" data-x="903.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="126" r="6" data-z="Балкон" data-r="4" data-s="30" data-x="883.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="126" r="6" data-z="Балкон" data-r="4" data-s="29" data-x="863.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="126" r="6" data-z="Балкон" data-r="4" data-s="28" data-x="843.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="618" cy="126" r="6" data-z="Балкон" data-r="4" data-s="27" data-x="783.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="598" cy="126" r="6" data-z="Балкон" data-r="4" data-s="26" data-x="763.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="126" r="6" data-z="Балкон" data-r="4" data-s="25" data-x="743.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="126" r="6" data-z="Балкон" data-r="4" data-s="24" data-x="723.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="126" r="6" data-z="Балкон" data-r="4" data-s="23" data-x="703.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="126" r="6" data-z="Балкон" data-r="4" data-s="22" data-x="683.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="126" r="6" data-z="Балкон" data-r="4" data-s="21" data-x="663.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="478" cy="126" r="6" data-z="Балкон" data-r="4" data-s="20" data-x="643.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="458" cy="126" r="6" data-z="Балкон" data-r="4" data-s="19" data-x="623.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="126" r="6" data-z="Балкон" data-r="4" data-s="18" data-x="603.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="126" r="6" data-z="Балкон" data-r="4" data-s="17" data-x="583.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="126" r="6" data-z="Балкон" data-r="4" data-s="16" data-x="563.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="126" r="6" data-z="Балкон" data-r="4" data-s="15" data-x="543.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="126" r="6" data-z="Балкон" data-r="4" data-s="14" data-x="523.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="338" cy="126" r="6" data-z="Балкон" data-r="4" data-s="13" data-x="503.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="318" cy="126" r="6" data-z="Балкон" data-r="4" data-s="12" data-x="483.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="126" r="6" data-z="Балкон" data-r="4" data-s="11" data-x="423.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="126" r="6" data-z="Балкон" data-r="4" data-s="10" data-x="403.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="126" r="6" data-z="Балкон" data-r="4" data-s="9" data-x="383.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="126" r="6" data-z="Балкон" data-r="4" data-s="8" data-x="363.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="126" r="6" data-z="Балкон" data-r="4" data-s="7" data-x="343.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="126" r="6" data-z="Балкон" data-r="4" data-s="6" data-x="323.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="126" r="6" data-z="Балкон" data-r="4" data-s="5" data-x="303.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="126" r="6" data-z="Балкон" data-r="4" data-s="4" data-x="283.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="126" r="6" data-z="Балкон" data-r="4" data-s="3" data-x="263.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="126" r="6" data-z="Балкон" data-r="4" data-s="2" data-x="243.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="126" r="6" data-z="Балкон" data-r="4" data-s="1" data-x="223.0" data-y="127.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="104" r="6" data-z="Балкон" data-r="5" data-s="32" data-x="1023.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="104" r="6" data-z="Балкон" data-r="5" data-s="31" data-x="1003.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="104" r="6" data-z="Балкон" data-r="5" data-s="30" data-x="983.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="104" r="6" data-z="Балкон" data-r="5" data-s="29" data-x="963.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="104" r="6" data-z="Балкон" data-r="5" data-s="28" data-x="943.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="104" r="6" data-z="Балкон" data-r="5" data-s="27" data-x="923.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="104" r="6" data-z="Балкон" data-r="5" data-s="26" data-x="903.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="104" r="6" data-z="Балкон" data-r="5" data-s="25" data-x="883.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="104" r="6" data-z="Балкон" data-r="5" data-s="24" data-x="863.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="104" r="6" data-z="Балкон" data-r="5" data-s="23" data-x="843.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="578" cy="104" r="6" data-z="Балкон" data-r="5" data-s="22" data-x="743.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="558" cy="104" r="6" data-z="Балкон" data-r="5" data-s="21" data-x="723.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="538" cy="104" r="6" data-z="Балкон" data-r="5" data-s="20" data-x="703.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="518" cy="104" r="6" data-z="Балкон" data-r="5" data-s="19" data-x="683.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="498" cy="104" r="6" data-z="Балкон" data-r="5" data-s="18" data-x="663.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="478" cy="104" r="6" data-z="Балкон" data-r="5" data-s="17" data-x="643.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="458" cy="104" r="6" data-z="Балкон" data-r="5" data-s="16" data-x="623.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="438" cy="104" r="6" data-z="Балкон" data-r="5" data-s="15" data-x="603.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="418" cy="104" r="6" data-z="Балкон" data-r="5" data-s="14" data-x="583.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="398" cy="104" r="6" data-z="Балкон" data-r="5" data-s="13" data-x="563.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="378" cy="104" r="6" data-z="Балкон" data-r="5" data-s="12" data-x="543.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="358" cy="104" r="6" data-z="Балкон" data-r="5" data-s="11" data-x="523.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="104" r="6" data-z="Балкон" data-r="5" data-s="10" data-x="423.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="104" r="6" data-z="Балкон" data-r="5" data-s="9" data-x="403.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="104" r="6" data-z="Балкон" data-r="5" data-s="8" data-x="383.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="104" r="6" data-z="Балкон" data-r="5" data-s="7" data-x="363.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="104" r="6" data-z="Балкон" data-r="5" data-s="6" data-x="343.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="104" r="6" data-z="Балкон" data-r="5" data-s="5" data-x="323.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="104" r="6" data-z="Балкон" data-r="5" data-s="4" data-x="303.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="104" r="6" data-z="Балкон" data-r="5" data-s="3" data-x="283.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="104" r="6" data-z="Балкон" data-r="5" data-s="2" data-x="263.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="104" r="6" data-z="Балкон" data-r="5" data-s="1" data-x="243.0" data-y="105.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="82" r="6" data-z="Балкон" data-r="6" data-s="20" data-x="1023.0" data-y="83.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="82" r="6" data-z="Балкон" data-r="6" data-s="19" data-x="1003.0" data-y="83.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="82" r="6" data-z="Балкон" data-r="6" data-s="18" data-x="983.0" data-y="83.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="82" r="6" data-z="Балкон" data-r="6" data-s="17" data-x="963.0" data-y="83.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="82" r="6" data-z="Балкон" data-r="6" data-s="16" data-x="943.0" data-y="83.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="82" r="6" data-z="Балкон" data-r="6" data-s="15" data-x="923.0" data-y="83.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="82" r="6" data-z="Балкон" data-r="6" data-s="14" data-x="903.0" data-y="83.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="82" r="6" data-z="Балкон" data-r="6" data-s="13" data-x="883.0" data-y="83.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="82" r="6" data-z="Балкон" data-r="6" data-s="12" data-x="863.0" data-y="83.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="82" r="6" data-z="Балкон" data-r="6" data-s="11" data-x="843.0" data-y="83.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="82" r="6" data-z="Балкон" data-r="6" data-s="10" data-x="423.0" data-y="83.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="82" r="6" data-z="Балкон" data-r="6" data-s="9" data-x="403.0" data-y="83.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="82" r="6" data-z="Балкон" data-r="6" data-s="8" data-x="383.0" data-y="83.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="82" r="6" data-z="Балкон" data-r="6" data-s="7" data-x="363.0" data-y="83.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="82" r="6" data-z="Балкон" data-r="6" data-s="6" data-x="343.0" data-y="83.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="82" r="6" data-z="Балкон" data-r="6" data-s="5" data-x="323.0" data-y="83.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="82" r="6" data-z="Балкон" data-r="6" data-s="4" data-x="303.0" data-y="83.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="82" r="6" data-z="Балкон" data-r="6" data-s="3" data-x="283.0" data-y="83.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="82" r="6" data-z="Балкон" data-r="6" data-s="2" data-x="263.0" data-y="83.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="82" r="6" data-z="Балкон" data-r="6" data-s="1" data-x="243.0" data-y="83.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="60" r="6" data-z="Балкон" data-r="7" data-s="22" data-x="1043.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="60" r="6" data-z="Балкон" data-r="7" data-s="21" data-x="1023.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="60" r="6" data-z="Балкон" data-r="7" data-s="20" data-x="1003.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="60" r="6" data-z="Балкон" data-r="7" data-s="19" data-x="983.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="60" r="6" data-z="Балкон" data-r="7" data-s="18" data-x="963.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="60" r="6" data-z="Балкон" data-r="7" data-s="17" data-x="943.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="60" r="6" data-z="Балкон" data-r="7" data-s="16" data-x="923.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="60" r="6" data-z="Балкон" data-r="7" data-s="15" data-x="903.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="60" r="6" data-z="Балкон" data-r="7" data-s="14" data-x="883.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="60" r="6" data-z="Балкон" data-r="7" data-s="13" data-x="863.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="60" r="6" data-z="Балкон" data-r="7" data-s="12" data-x="843.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="60" r="6" data-z="Балкон" data-r="7" data-s="11" data-x="423.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="60" r="6" data-z="Балкон" data-r="7" data-s="10" data-x="403.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="60" r="6" data-z="Балкон" data-r="7" data-s="9" data-x="383.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="60" r="6" data-z="Балкон" data-r="7" data-s="8" data-x="363.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="60" r="6" data-z="Балкон" data-r="7" data-s="7" data-x="343.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="60" r="6" data-z="Балкон" data-r="7" data-s="6" data-x="323.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="60" r="6" data-z="Балкон" data-r="7" data-s="5" data-x="303.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="60" r="6" data-z="Балкон" data-r="7" data-s="4" data-x="283.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="60" r="6" data-z="Балкон" data-r="7" data-s="3" data-x="263.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="60" r="6" data-z="Балкон" data-r="7" data-s="2" data-x="243.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="60" r="6" data-z="Балкон" data-r="7" data-s="1" data-x="223.0" data-y="61.0" />  
+      <circle fill="#DDDDDC" cx="878" cy="38" r="6" data-z="Балкон" data-r="8" data-s="22" data-x="1043.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="858" cy="38" r="6" data-z="Балкон" data-r="8" data-s="21" data-x="1023.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="838" cy="38" r="6" data-z="Балкон" data-r="8" data-s="20" data-x="1003.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="818" cy="38" r="6" data-z="Балкон" data-r="8" data-s="19" data-x="983.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="798" cy="38" r="6" data-z="Балкон" data-r="8" data-s="18" data-x="963.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="778" cy="38" r="6" data-z="Балкон" data-r="8" data-s="17" data-x="943.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="758" cy="38" r="6" data-z="Балкон" data-r="8" data-s="16" data-x="923.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="738" cy="38" r="6" data-z="Балкон" data-r="8" data-s="15" data-x="903.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="718" cy="38" r="6" data-z="Балкон" data-r="8" data-s="14" data-x="883.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="698" cy="38" r="6" data-z="Балкон" data-r="8" data-s="13" data-x="863.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="678" cy="38" r="6" data-z="Балкон" data-r="8" data-s="12" data-x="843.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="258" cy="38" r="6" data-z="Балкон" data-r="8" data-s="11" data-x="423.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="238" cy="38" r="6" data-z="Балкон" data-r="8" data-s="10" data-x="403.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="218" cy="38" r="6" data-z="Балкон" data-r="8" data-s="9" data-x="383.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="198" cy="38" r="6" data-z="Балкон" data-r="8" data-s="8" data-x="363.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="178" cy="38" r="6" data-z="Балкон" data-r="8" data-s="7" data-x="343.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="158" cy="38" r="6" data-z="Балкон" data-r="8" data-s="6" data-x="323.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="138" cy="38" r="6" data-z="Балкон" data-r="8" data-s="5" data-x="303.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="118" cy="38" r="6" data-z="Балкон" data-r="8" data-s="4" data-x="283.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="98" cy="38" r="6" data-z="Балкон" data-r="8" data-s="3" data-x="263.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="78" cy="38" r="6" data-z="Балкон" data-r="8" data-s="2" data-x="243.0" data-y="39.0" />  
+      <circle fill="#DDDDDC" cx="58" cy="38" r="6" data-z="Балкон" data-r="8" data-s="1" data-x="223.0" data-y="39.0" /> 
+    </g>  
+    <g transform="translate(1125.000000, 255.000000)"> 
+      <circle fill="#DDDDDC" transform="translate(80.000000, 390.000000) scale(-1, 1) translate(-80.000000, -390.000000) " cx="80" cy="390" r="6" data-z="Левый балкон" data-r="" data-s="33" data-x="1205.0" data-y="645.0" />  
+      <circle fill="#DDDDDC" transform="translate(60.000000, 390.000000) scale(-1, 1) translate(-60.000000, -390.000000) " cx="60" cy="390" r="6" data-z="Левый балкон" data-r="" data-s="32" data-x="1185.0" data-y="645.0" />  
+      <circle fill="#DDDDDC" transform="translate(60.000000, 367.000000) scale(-1, 1) translate(-60.000000, -367.000000) " cx="60" cy="367" r="6" data-z="Левый балкон" data-r="" data-s="31" data-x="1185.0" data-y="622.0" />  
+      <circle fill="#DDDDDC" transform="translate(60.000000, 345.000000) scale(-1, 1) translate(-60.000000, -345.000000) " cx="60" cy="345" r="6" data-z="Левый балкон" data-r="" data-s="30" data-x="1185.0" data-y="600.0" />  
+      <circle fill="#DDDDDC" transform="translate(60.000000, 323.000000) scale(-1, 1) translate(-60.000000, -323.000000) " cx="60" cy="323" r="6" data-z="Левый балкон" data-r="" data-s="29" data-x="1185.0" data-y="578.0" />  
+      <circle fill="#DDDDDC" transform="translate(60.000000, 301.000000) scale(-1, 1) translate(-60.000000, -301.000000) " cx="60" cy="301" r="6" data-z="Левый балкон" data-r="" data-s="28" data-x="1185.0" data-y="556.0" />  
+      <circle fill="#DDDDDC" transform="translate(60.000000, 279.000000) scale(-1, 1) translate(-60.000000, -279.000000) " cx="60" cy="279" r="6" data-z="Левый балкон" data-r="" data-s="27" data-x="1185.0" data-y="534.0" />  
+      <circle fill="#DDDDDC" transform="translate(60.000000, 257.000000) scale(-1, 1) translate(-60.000000, -257.000000) " cx="60" cy="257" r="6" data-z="Левый балкон" data-r="" data-s="26" data-x="1185.0" data-y="512.0" />  
+      <circle fill="#DDDDDC" transform="translate(60.000000, 235.000000) scale(-1, 1) translate(-60.000000, -235.000000) " cx="60" cy="235" r="6" data-z="Левый балкон" data-r="" data-s="25" data-x="1185.0" data-y="490.0" />  
+      <circle fill="#DDDDDC" transform="translate(60.000000, 213.000000) scale(-1, 1) translate(-60.000000, -213.000000) " cx="60" cy="213" r="6" data-z="Левый балкон" data-r="" data-s="24" data-x="1185.0" data-y="468.0" />  
+      <circle fill="#DDDDDC" transform="translate(60.000000, 191.000000) scale(-1, 1) translate(-60.000000, -191.000000) " cx="60" cy="191" r="6" data-z="Левый балкон" data-r="" data-s="23" data-x="1185.0" data-y="446.0" />  
+      <circle fill="#DDDDDC" transform="translate(60.000000, 169.000000) scale(-1, 1) translate(-60.000000, -169.000000) " cx="60" cy="169" r="6" data-z="Левый балкон" data-r="" data-s="22" data-x="1185.0" data-y="424.0" />  
+      <circle fill="#DDDDDC" transform="translate(60.000000, 147.000000) scale(-1, 1) translate(-60.000000, -147.000000) " cx="60" cy="147" r="6" data-z="Левый балкон" data-r="" data-s="21" data-x="1185.0" data-y="402.0" />  
+      <circle fill="#DDDDDC" transform="translate(60.000000, 125.000000) scale(-1, 1) translate(-60.000000, -125.000000) " cx="60" cy="125" r="6" data-z="Левый балкон" data-r="" data-s="20" data-x="1185.0" data-y="380.0" />  
+      <circle fill="#DDDDDC" transform="translate(60.000000, 103.000000) scale(-1, 1) translate(-60.000000, -103.000000) " cx="60" cy="103" r="6" data-z="Левый балкон" data-r="" data-s="19" data-x="1185.0" data-y="358.0" />  
+      <circle fill="#DDDDDC" transform="translate(60.000000, 81.000000) scale(-1, 1) translate(-60.000000, -81.000000) " cx="60" cy="81" r="6" data-z="Левый балкон" data-r="" data-s="18" data-x="1185.0" data-y="336.0" />  
+      <circle fill="#DDDDDC" transform="translate(60.000000, 59.000000) scale(-1, 1) translate(-60.000000, -59.000000) " cx="60" cy="59" r="6" data-z="Левый балкон" data-r="" data-s="17" data-x="1185.0" data-y="314.0" />  
+      <circle fill="#DDDDDC" transform="translate(80.000000, 367.000000) scale(-1, 1) translate(-80.000000, -367.000000) " cx="80" cy="367" r="6" data-z="Левый балкон" data-r="" data-s="16" data-x="1205.0" data-y="622.0" />  
+      <circle fill="#DDDDDC" transform="translate(80.000000, 345.000000) scale(-1, 1) translate(-80.000000, -345.000000) " cx="80" cy="345" r="6" data-z="Левый балкон" data-r="" data-s="15" data-x="1205.0" data-y="600.0" />  
+      <circle fill="#DDDDDC" transform="translate(80.000000, 323.000000) scale(-1, 1) translate(-80.000000, -323.000000) " cx="80" cy="323" r="6" data-z="Левый балкон" data-r="" data-s="14" data-x="1205.0" data-y="578.0" />  
+      <circle fill="#DDDDDC" transform="translate(80.000000, 301.000000) scale(-1, 1) translate(-80.000000, -301.000000) " cx="80" cy="301" r="6" data-z="Левый балкон" data-r="" data-s="13" data-x="1205.0" data-y="556.0" />  
+      <circle fill="#DDDDDC" transform="translate(80.000000, 279.000000) scale(-1, 1) translate(-80.000000, -279.000000) " cx="80" cy="279" r="6" data-z="Левый балкон" data-r="" data-s="12" data-x="1205.0" data-y="534.0" />  
+      <circle fill="#DDDDDC" transform="translate(80.000000, 257.000000) scale(-1, 1) translate(-80.000000, -257.000000) " cx="80" cy="257" r="6" data-z="Левый балкон" data-r="" data-s="11" data-x="1205.0" data-y="512.0" />  
+      <circle fill="#DDDDDC" transform="translate(80.000000, 235.000000) scale(-1, 1) translate(-80.000000, -235.000000) " cx="80" cy="235" r="6" data-z="Левый балкон" data-r="" data-s="10" data-x="1205.0" data-y="490.0" />  
+      <circle fill="#DDDDDC" transform="translate(80.000000, 213.000000) scale(-1, 1) translate(-80.000000, -213.000000) " cx="80" cy="213" r="6" data-z="Левый балкон" data-r="" data-s="9" data-x="1205.0" data-y="468.0" />  
+      <circle fill="#DDDDDC" transform="translate(80.000000, 191.000000) scale(-1, 1) translate(-80.000000, -191.000000) " cx="80" cy="191" r="6" data-z="Левый балкон" data-r="" data-s="8" data-x="1205.0" data-y="446.0" />  
+      <circle fill="#DDDDDC" transform="translate(80.000000, 169.000000) scale(-1, 1) translate(-80.000000, -169.000000) " cx="80" cy="169" r="6" data-z="Левый балкон" data-r="" data-s="7" data-x="1205.0" data-y="424.0" />  
+      <circle fill="#DDDDDC" transform="translate(80.000000, 147.000000) scale(-1, 1) translate(-80.000000, -147.000000) " cx="80" cy="147" r="6" data-z="Левый балкон" data-r="" data-s="6" data-x="1205.0" data-y="402.0" />  
+      <circle fill="#DDDDDC" transform="translate(80.000000, 125.000000) scale(-1, 1) translate(-80.000000, -125.000000) " cx="80" cy="125" r="6" data-z="Левый балкон" data-r="" data-s="5" data-x="1205.0" data-y="380.0" />  
+      <circle fill="#DDDDDC" transform="translate(80.000000, 103.000000) scale(-1, 1) translate(-80.000000, -103.000000) " cx="80" cy="103" r="6" data-z="Левый балкон" data-r="" data-s="4" data-x="1205.0" data-y="358.0" />  
+      <circle fill="#DDDDDC" transform="translate(80.000000, 81.000000) scale(-1, 1) translate(-80.000000, -81.000000) " cx="80" cy="81" r="6" data-z="Левый балкон" data-r="" data-s="3" data-x="1205.0" data-y="336.0" />  
+      <circle fill="#DDDDDC" transform="translate(80.000000, 59.000000) scale(-1, 1) translate(-80.000000, -59.000000) " cx="80" cy="59" r="6" data-z="Левый балкон" data-r="" data-s="2" data-x="1205.0" data-y="314.0" />  
+      <circle fill="#DDDDDC" transform="translate(80.000000, 37.000000) scale(-1, 1) translate(-80.000000, -37.000000) " cx="80" cy="37" r="6" data-z="Левый балкон" data-r="" data-s="1" data-x="1205.0" data-y="292.0" /> 
+    </g>  
+    <g transform="translate(1.000000, 255.000000)"> 
+      <circle fill="#DDDDDC" cx="60" cy="390" r="6" data-z="Правый балкон" data-r="" data-s="33" data-x="61.0" data-y="645.0" />  
+      <circle fill="#DDDDDC" cx="80" cy="390" r="6" data-z="Правый балкон" data-r="" data-s="32" data-x="81.0" data-y="645.0" />  
+      <circle fill="#DDDDDC" cx="80" cy="368" r="6" data-z="Правый балкон" data-r="" data-s="31" data-x="81.0" data-y="623.0" />  
+      <circle fill="#DDDDDC" cx="80" cy="346" r="6" data-z="Правый балкон" data-r="" data-s="30" data-x="81.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="80" cy="324" r="6" data-z="Правый балкон" data-r="" data-s="29" data-x="81.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="80" cy="302" r="6" data-z="Правый балкон" data-r="" data-s="28" data-x="81.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="80" cy="280" r="6" data-z="Правый балкон" data-r="" data-s="27" data-x="81.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="80" cy="258" r="6" data-z="Правый балкон" data-r="" data-s="26" data-x="81.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="80" cy="236" r="6" data-z="Правый балкон" data-r="" data-s="25" data-x="81.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="80" cy="214" r="6" data-z="Правый балкон" data-r="" data-s="24" data-x="81.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="80" cy="192" r="6" data-z="Правый балкон" data-r="" data-s="23" data-x="81.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="80" cy="170" r="6" data-z="Правый балкон" data-r="" data-s="22" data-x="81.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="80" cy="148" r="6" data-z="Правый балкон" data-r="" data-s="21" data-x="81.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="80" cy="126" r="6" data-z="Правый балкон" data-r="" data-s="20" data-x="81.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="80" cy="104" r="6" data-z="Правый балкон" data-r="" data-s="19" data-x="81.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="80" cy="82" r="6" data-z="Правый балкон" data-r="" data-s="18" data-x="81.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="80" cy="60" r="6" data-z="Правый балкон" data-r="" data-s="17" data-x="81.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="60" cy="368" r="6" data-z="Правый балкон" data-r="" data-s="16" data-x="61.0" data-y="623.0" />  
+      <circle fill="#DDDDDC" cx="60" cy="346" r="6" data-z="Правый балкон" data-r="" data-s="15" data-x="61.0" data-y="601.0" />  
+      <circle fill="#DDDDDC" cx="60" cy="324" r="6" data-z="Правый балкон" data-r="" data-s="14" data-x="61.0" data-y="579.0" />  
+      <circle fill="#DDDDDC" cx="60" cy="302" r="6" data-z="Правый балкон" data-r="" data-s="13" data-x="61.0" data-y="557.0" />  
+      <circle fill="#DDDDDC" cx="60" cy="280" r="6" data-z="Правый балкон" data-r="" data-s="12" data-x="61.0" data-y="535.0" />  
+      <circle fill="#DDDDDC" cx="60" cy="258" r="6" data-z="Правый балкон" data-r="" data-s="11" data-x="61.0" data-y="513.0" />  
+      <circle fill="#DDDDDC" cx="60" cy="236" r="6" data-z="Правый балкон" data-r="" data-s="10" data-x="61.0" data-y="491.0" />  
+      <circle fill="#DDDDDC" cx="60" cy="214" r="6" data-z="Правый балкон" data-r="" data-s="9" data-x="61.0" data-y="469.0" />  
+      <circle fill="#DDDDDC" cx="60" cy="192" r="6" data-z="Правый балкон" data-r="" data-s="8" data-x="61.0" data-y="447.0" />  
+      <circle fill="#DDDDDC" cx="60" cy="170" r="6" data-z="Правый балкон" data-r="" data-s="7" data-x="61.0" data-y="425.0" />  
+      <circle fill="#DDDDDC" cx="60" cy="148" r="6" data-z="Правый балкон" data-r="" data-s="6" data-x="61.0" data-y="403.0" />  
+      <circle fill="#DDDDDC" cx="60" cy="126" r="6" data-z="Правый балкон" data-r="" data-s="5" data-x="61.0" data-y="381.0" />  
+      <circle fill="#DDDDDC" cx="60" cy="104" r="6" data-z="Правый балкон" data-r="" data-s="4" data-x="61.0" data-y="359.0" />  
+      <circle fill="#DDDDDC" cx="60" cy="82" r="6" data-z="Правый балкон" data-r="" data-s="3" data-x="61.0" data-y="337.0" />  
+      <circle fill="#DDDDDC" cx="60" cy="60" r="6" data-z="Правый балкон" data-r="" data-s="2" data-x="61.0" data-y="315.0" />  
+      <circle fill="#DDDDDC" cx="60" cy="38" r="6" data-z="Правый балкон" data-r="" data-s="1" data-x="61.0" data-y="293.0" /> 
+    </g>  
+    </g> 
+</svg>

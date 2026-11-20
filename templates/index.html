@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="ru"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Бронирование мест</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head><body>
+
+<header id="top">
+  <div class="grp">
+    <select id="evSel" title="Мероприятие"></select>
+    <button id="evAdd" title="Новое мероприятие">＋</button>
+<button id="evDel" class="danger" title="Удалить выбранное мероприятие">🗑</button>
+    <select id="sesSel" title="Сеанс"></select>
+    <button id="sesAdd" title="Новый сеанс">＋</button>
+    <button id="sesEdit" title="Изменить дату и цены сеанса">Изменить</button>
+    <button id="sesCopy" title="Создать копию сеанса">Копия</button>
+    <button id="sesDel" class="danger" title="Удалить выбранный сеанс (дату и время)">🗑</button>
+  </div>
+  <div class="grp find">
+    <input id="q" type="search" placeholder="Найти школу…" list="qList" autocomplete="off" aria-label="Поиск заказа на схеме">
+    <datalist id="qList"></datalist><span id="qCount"></span>
+  </div>
+  <a class="btn" href="/log" target="_blank" rel="noopener" title="Все действия по всем сеансам">📜 Общий журнал</a>
+  <button id="op" class="who" title="Кто вы (для журнала действий)"></button>
+</header>
+
+<section id="statsbar">
+  <div id="stats"></div>
+  <div id="bar" role="img" aria-label="Заполненность зала"></div>
+  <div id="money"></div>
+</section>
+
+<section id="tools">
+  <div class="seg" role="group" aria-label="Режим мыши">
+    <button id="mPan" class="on" title="Двигать схему; клик — выбрать место">✋ Рука</button>
+    <button id="mLasso" title="Протяните рамку, чтобы выбрать много мест (Shift+протягивание работает в любом режиме, Alt — снять)">▭ Выделение</button>
+  </div>
+  <div class="grp">
+    <input id="apN" type="number" min="1" placeholder="Мест" inputmode="numeric" aria-label="Сколько мест подобрать">
+    <button id="apGo">Подобрать блок</button>
+    <label class="chk" id="apSideLbl" hidden><input id="apSide" type="checkbox"> <span id="apSideTxt"></span></label>
+  </div>
+  <div class="grp" id="find">
+    <select id="fz" aria-label="Зона"></select>
+    <input id="fr" placeholder="Ряд" inputmode="numeric"><input id="fs" placeholder="Место"><button id="fb">Найти</button>
+  </div>
+  <div id="info"><span>Наведите на место или нажмите на него</span></div>
+</section>
+
+<div id="wrap">
+  <main>
+    <!-- схема выбранного зала подставляется скриптом (GET /api/halls/<ключ>/svg) -->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1266 966"></svg>
+    <div id="sugbar" hidden>
+      <span id="sugText"></span>
+      <button id="sugOk" class="pri">Подтвердить</button>
+      <button id="sugAlt">Другой вариант</button>
+      <button id="sugNo">Сбросить</button>
+    </div>
+    <div id="selbar" hidden>
+      <span id="selText"></span>
+      <button id="selNew" class="pri">Новый заказ</button>
+      <span class="grp"><select id="selTo" aria-label="Заказ"></select><button id="selAdd">В заказ</button></span>
+      <button id="selDel">Убрать из заказа</button>
+      <button id="selFree" title="Сопровождающие, учителя">Бесплатные</button>
+      <button id="selPaid">Платные</button>
+      <button id="selClear">Сбросить</button>
+    </div>
+    <div id="zoom"><button id="zi">+</button><button id="zo">−</button><button id="zr" title="Сбросить масштаб" style="font-size:14px">⤢</button></div>
+  </main>
+
+  <aside>
+    <nav class="tabs"><button id="tabOrders" class="on">Заказы</button><button id="tabLog">История</button></nav>
+    <div id="orders"></div>
+    <div id="log" hidden></div>
+    <footer><a id="expAll" href="#">⭳ CSV всего сеанса</a> <a id="expXlsx" href="#">⭳ Excel: все сеансы</a></footer>
+  </aside>
+</div>
+
+<div id="tip"></div><div id="toast" role="status"></div>
+
+<dialog id="dlgEvent"><form method="dialog">
+  <h3>Новое мероприятие</h3>
+  <label>Название<input id="eName" required maxlength="200" placeholder="Новогодняя ёлка"></label>
+  <label>Описание<input id="eDesc" maxlength="500"></label>
+  <div class="acts"><button type="button" data-close>Отмена</button><button id="eOk" class="pri">Создать</button></div>
+</form></dialog>
+
+<dialog id="dlgSession"><form method="dialog">
+  <h3 id="sTitle">Новый сеанс</h3>
+  <fieldset id="sHallBox" hidden><legend>Зал</legend>
+    <div id="sHall"></div>
+    <p id="sHallNote" class="hint" hidden>Зал нельзя сменить, пока в сеансе есть занятые места.</p>
+  </fieldset>
+  <label>Дата и время<input id="sDate" type="datetime-local" required></label>
+  <label>Цена билета по умолчанию<input id="sPrice" type="number" min="0" value="0"></label>
+  <fieldset><legend>Цена по зонам (необязательно)</legend><div id="sZones"></div></fieldset>
+  <fieldset><legend>Цвет и цена по зонам/рядам (необязательно)</legend>
+    <p class="hint">Перекрывает цену зоны. Оставьте номера рядов пустыми, чтобы правило применилось ко всей зоне целиком (например, на балконы). Если правила пересекаются, побеждает более раннее в списке.</p>
+    <div id="sRows"></div>
+    <button type="button" id="sRowAdd">＋ Добавить правило</button>
+  </fieldset>
+  <div class="acts"><button type="button" data-close>Отмена</button><button id="sOk" class="pri">Сохранить</button></div>
+</form></dialog>
+
+<dialog id="dlgOrder"><form method="dialog">
+  <h3 id="oTitle">Новый заказ</h3>
+  <label>Школа / заказчик<input id="oName" required maxlength="200" placeholder="Школа №5"></label>
+  <label>Комментарий<input id="oComment" placeholder="Контакт, класс, договорённости"></label>
+  <div class="row2">
+    <label>Статус<select id="oStatus"><option value="reserved">Забронирован</option><option value="paid">Оплачен</option></select></label>
+    <label>Цвет<input id="oColor" type="color"></label>
+  </div>
+  <div class="row2">
+    <label>Цена билета<input id="oPrice" type="number" min="0"></label>
+    <label id="oFreeBox">Из них бесплатных<input id="oFree" type="number" min="0" value="0"></label>
+  </div>
+  <p id="oHint" class="hint"></p>
+  <div id="oCalc" class="calc"></div>
+  <div class="acts">
+    <button id="oDel" type="button" class="danger">Удалить заказ</button>
+    <a id="oCsv" class="btn" href="#">⭳ CSV</a>
+    <span class="sp"></span>
+    <button type="button" data-close>Отмена</button><button id="oOk" class="pri">Сохранить</button>
+  </div>
+</form></dialog>
+
+<script src="{{ url_for('static', filename='app.js') }}"></script>
+</body></html>
